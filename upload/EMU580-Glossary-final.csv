@@ -1,0 +1,445 @@
+ABI/Inform,A database of articles in more than 800 business-related periodicals and specialty publications since 1986.
+Access Provider,"The company that provides you with Internet access and, in some cases, an online account on their computer system."
+Acoustic Coupler,"A type of modem which converts digital signals into sound for transmission through telephone lines, and performs the reverse operation when receiving such signals. Acoustic couplers generally have cups for the telephone handset."
+Active Window,The top or front window in a multiple window environment.
+A/D Converter,"A device used to convert analog data to digital data. Analog data is continuously variable, while digital data contains discrete steps."
+Additive Primaries,"Red, green, and blue are the primary colors of light from which all other colors can be made."
+Address Resolution,Conversion of an IP Address to the corresponding low-level physical address.
+AIX,Advanced Interactive Executive - IBM's version of Unix.
+Aliasing,"Visibly jagged steps along angled or object edges, due to sharp tonal contrasts between pixels."
+Analog,Continuously variable signals or data.
+Anonymous Login Convention (FTP),Standard username (anonymous) and password (guest) which allows login within FTP for the purpose of retrieving an unprotected file.
+ANSI,"American National Standards Institute. This organization is responsible for approving U.S. standards in many areas, including computers and communications. Standards approved by this organization are often called ANSI standards (e.g., ANSI C is the version of the C language approved by ANSI)."
+Application,"Software that lets users do relatively complex tasks, as well as create and modify documents. Common application types include word processors, spreadsheets, database managers, and presentation graphics programs."
+ARA,"AppleTalk Remote Access. A protocol (and product) that provides system-level support for dial-in (modem) connections to an AppleTalk network. With ARA, you can call your desktop Mac from a PowerBook and remotely access all the available services - files, printers, servers, e-mail, etc."
+Archie,"An information system offering an electronic directory service for locating information in the Internet that is automatically updated. The best known use of archie is for scanning a database of the contents of more than 1000 Anonymous FTP sites around the world with more than 2,100,000 file names."
+ARP,"Address Resolution Protocol. Used to dynamically discover the low-level physical network hardware address that corresponds to the high level IP Address for a given host, for instance. ARP is limited to physical network systems that support broadcast packets that can be heard by all hosts on the network. See also Proxy ARP."
+ARPANET,"Advanced Research Projects Agency NETwork. A pioneering long-haul network funded by ARPA, an agency of the U.S. Department of Defense responsible for the development of new technology for the military. It served as the basis for early networking research as well as a central backbone during the development of the Internet. The ARPANET consisted of individual packet switching computers interconnected by leased lines."
+ASCII,American (National) Standard Code for Information Interchange. A standard character-to-number encoding widely used in the computer industry.
+Associate,Linking a document with the program that created it so that both can be opened with a single command.
+AV,Audio-Visual. AV Macintosh models have video-capture hardware and have sophisticated sound (and video) recording capabilities.
+AU sounds,A type of audio format used in the World Wide Web.
+B,"Byte. One character of information, usually eight bits wide."
+Backbone,Network used to interconnect several networks together.
+Backup file,"In Windows 95, a compressed version of the original file and its locations created by Backup."
+Bandwidth,"The capacity of the transmission medium stated in bits per second or as a frequency. The bandwidth of optical fiber is in the gigabit or billion bits per second range, while ethernet coaxial cable is in the megabit or million bits per second range."
+Baseband System,"A baseband system transmits signals without converting them to another frequency and is characterized by its support of one frequency of signals. Ethernet-based networks inside campus buildings are transmitted via baseband coaxial cable, with ethernet being the only service supported by the coaxial cable."
+BAT,Filename extension for a batch file.
+Batch Scanning,"Sequential scanning of multiple originals using previously defined, unique settings for each."
+Baud,"A unit of measurement that denotes the number of bits that can be transmitted per second. For example, if a modem is rated at 9600 baud it is capable of transmitting data at a rate of 9600 bits per second. The term was derived from the name of J.M.E. Baudot, a French pioneer in the field of printing telegraphy."
+BBS,"Bulletin Board Service. A non commercial dial-up service usually run by a user group or software company. By dialing up a BBS with your modem, you can exchange messages with other users, and upload or download software."
+BGI,"Binary Gateway Interface. Provides a method of running a program from a Web server. Similar to a Common Gateway Interface (CGI). The BGI uses a binary DLL which is loaded into memory when the server starts. While more efficient han a CGI, the BGI must be compiled and is not easily portable to other environments."
+Bilevel,A type of image containing only black and white pixels.
+Binary,A numbering system with only two values: 0 (zero) and 1 (one).
+Binary File,"A file that contains more than plain text (i.e., photos, sounds, spreadsheet, etc.) In contrast to an ASCII file which only contains plain text."
+Binary Number System,A counting system used in computers consisting of only 1's and 0's (zeros).
+BinHex,A file conversion format that converts binary files to ASCII test files.
+BIOS,"Basic Input-Output System. Part of the computer's operating system that is built into the machine, rather than read from a disk drive at startup."
+bit,"A unit of measurement that represents one figure or character of data. A bit is the smallest unit of storage in a computer. Since computers actually read 0s and 1s, each is measured as a bit. The letter A consists of 8 bits which amounts to one byte. Bits are often used to measure the capability of a microprocessor to process data, such as 16-bit or 32-bit."
+Bit Depth,"The number of bits used to represent each pixel in an image, determining its color or tonal range."
+Bit-map,Generally used to describe an illustration or font file as being created by a predefined number of pixels. Also see Object-oriented.
+BITNET,"An academic computer network that provides interactive electronic mail and file transfer services, using a store-and-forward protocol, based on IBM Network Job Entry protocols. BITNET-II encapsulates the BITNET protocol within IP packets and depends on the Internet to route them. There are three main constituents of the network: BITNET in the United States and Mexico, NETNORTH in Canada, and EARN in Europe. There are also AsiaNet, in Japan, and connections in South America. See CREN."
+Black Point,"A movable reference point that defines the darkest area in an image, causing all other areas to be adjusted accordingly."
+Booting,"Starting up a computer via the power switch, which loads the system software into memory. Restarting the computer via a keystroke combination is called rebooting or a warm boot."
+Bridge,"A dedicated computer used to connect two different networks. It uses data link layer address (i.e., ethernet physical addresses) to determine if packets should be passed between the networks."
+Broadband System,"A broadband system is capable of transmitting many different signals at the same time without interfering with one another. For local area networks, a broadband system is one that handles multiple channels of local area network signals distributed over Cable Television (CATV) hardware."
+Broadcast,A packet whose special address results in its being heard by all hosts on a computer network.
+Browser,A program that enables you to access information on the Internet through the World Wide Web.
+bps,"Bits Per Second is the unit used for measuring line speed, the number of information units transmitted per second."
+BSD,"Berkeley Software Distribution. Implementation of the UNIX operating system and its utilities developed and distributed by the University of California at Berkeley. BSD is usually preceded by the version number of the distribution, e.g., 4.3 BSD is version 4.3 of the Berkeley UNIX distribution. Many Internet hosts run BSD software, and it is the ancestor of many commercial UNIX implementations."
+Bug,"A mistake, or unexpected occurrence, in a piece of software or in a piece of hardware."
+Byte,The amount of memory needed to store one character such as a letter or a number. Equal to 8 bits of digital information. The standard measurement unit of a file size.
+Cache,"An area of RAM reserved for data recently read from disk, which allows the processor to quickly retrieve it if it's needed again."
+Caching,"A process in which frequently accessed data is kept on hand, rather than constantly being from the place where it is stored."
+Case-dependent,Software differentiation between upper and lower case characters. Also referred to as case sensitive.
+CCD,"Charge-coupled device. An integrated, micro-electrical light sensing device built into some image capturing devices."
+CD-ROM,"Compact Disk, Read-Only Memory. A type of storage device that looks just like an audio CD and stores as much data as a large hard disk (600MB), making it a popular means of distributing fonts, photos, electronic encyclopedias, games, and multimedia offerings. As the name indicates, however, you can't save or change files on a CD-ROM, only read them. Pronounced see-dee rom."
+CGI,"Common Gateway Interface. A method of running an executable script or program from a Web server. When a client requests a URL pointing to a CGI, the program is run and the results are returned to the client. This enables dynamic web pages and the ability to do database queries and other complex operations across the web"
+CIE,"The ""Commission Internationale de l'Eclairage"". An organization that has established a number of widely-used color definitions."
+Circuit-switched,A type of network connection which establishes a continuous electrical connection between calling and called users for their exclusive use until the connection is released. Ericsson PBX is a circuit-switched network.
+Clickable Image,"Any image that has instructions embedded in it so that clicking on it initiates some kind of action or result. On a web page, a clickable image is any image that has a URL embedded in it."
+Client/server relationship,"A client application is one that resides on a user's computer, but sends requests to a remote system to execute a designated procedure using arguments supplied by the user. The computer that initiates the request is the client and the computer responding to the request is the server. Many network services follow a client and server protocol."
+Clipboard,"An area used to temporarily store cut or copied information. The Clipboard can store text, graphics, objects, and other data. The Clipboard contents are erased when new information is placed on the Clipboard or when the computer is shut down."
+Clipping,"The conversion of all tones lighter than a specified grey level to white, or darker than a specified grey level to black, causing loss of detail. This also applies to individual channels in a color image."
+CMS,Color management system. This ensures color uniformity across input and output devices so that final printed results match originals. The characteristics or profiles of devices are normally established by reference to standard color targets.
+CMYK,"Cyan, magenta, yellow, and black are the base colors used in printing processes. CMY are the primary colorants of the subtractive color model."
+Codec,"Also called a compressor, a compression / decompression software component which translates video between its uncompressed form and the compressed form in which it is stored on media (disk, etc.). The two most commonly used video codecs for CD-ROM video are Cinepak and Indeo."
+Colorimeter,"A light-sensitive device for measuring colors by filtering their red, green, and blue components, as in the human eye. See also spectrophoto-meter."
+Color Cast,"An overall color imbalance in an image, as if viewed through a colored filter."
+"COM1, COM2, etc. -",Most serial ports and internal modems on DOS/WIN PCs can be configured to either COM1 or COM2 in order to accommodate the situation where both may exist. The DOS MODE command is used to change the output direction to such serial devices as modems.
+Compression,The reduction in size of an image file. See also lossy and non-lossy.
+Computer Search Service,"Computer Search Service (CSS), a fee-based service, offers access to more than 500 databases, primarily in the sciences and social sciences, from which the Library can create customized bibliographies."
+Configuration,1. The components that make up a computer system (which model and what peripherals). 2. The physical arrangement of those components (what's placed and where). 3. The software settings that enable two computer components to talk to each other (as in configuring communications software to work with a modem).
+Contone (CT),"An abbreviation for continuous tone. A color or greyscale image format capable of illustrating continuously varying tonal ranges, as opposed to line art."
+Cookies,A file sent to a web browser by a web server that is used to record once's activities.
+Coprocessor,"A chip designed specifically to handle a particular task, such as math calculations or displaying graphics on-screen. A coprocessor is faster at its specialized function than the main processor is, and it relieves the processor of some work. A coprocessor can reside on the motherboard or be part of an expansion card, as with an accelerator."
+Coaxial Cable,"A type of cable that contains two conductors. The center conductor is surrounded by a layer of insulation, which is then wrapped by a braided-metal conductor and an outer layer of insulation."
+CPU,Central Processing Unit; the brains of the computer. The CPU interprets and executes the actual computing tasks.
+Crash,"A problem (often caused by a bug) that causes a program, or the entire operating system, to unexpectedly stop working."
+CREN,"Corporation for Research and Educational Networking. This organization was formed in October 1989, when BITNET and CSNET (Computer + Science NETwork) were combined under one administrative authority. CSNET is no longer operational, but CREN still runs BITNET. See BITNET."
+Cross-platform,Refers to software (or anything else) that will work on more that one platform (type of computer).
+CSUNET,California State University Network. A packet-switched network that connects the 22 campuses of the CSU system.
+Cursor,"The representation of the mouse on the screen. It may take many different shapes. Example: I-beam, arrow pointer, and hand."
+Cyberspace,A term used to refer to the electronic universe of information available through the Internet.
+DAT,Digital Audio Tape. The most common type of tape backup.
+Daughterboard,"A board that attaches to (rides piggyback on) another board, such as the motherboard or an expansion card. For example, you can often add a daughtercard containing additional memory to an accelerator card."
+Database,"A file created by a database manager that contains a collection of information organized into records, each of which contains labeled categories (called fields)."
+DCS,"Desktop color separation. An image format consisting of four separate CMYK PostScript files at full resolution, together with a fifth EPS master for placement in documents."
+DDN,"Defense Data Network. A global communications network serving the US Department of Defense composed of MILNET, other portions of the Internet, and classified networks which are not part of the Internet. The DDN is used to connect military installations and is managed by the Defense Information Systems Agency (DISA)."
+DEC,Digital Equipment Corporation.
+Decompression,The expansion of compressed image files. See also lossy and non-lossy.
+Dedicated line,"A telephone or data line that is always available. For example, a leased telephone line can be dedicated for computer data communications. This line is not used by other computers or individuals, is available 24 hours a day, and is never disconnected."
+Default Route,A routing table entry which is used to direct packets addressed to networks not explicitly listed in the routing table.
+Densitometer,A measuring instrument that registers the density of transparent or reflective materials. Colors are read as tonal information. See also colorimeter and spectrophotometer.
+Density,Density is a brightness control to lighten or darken a printout to more closely reflect its screen appearance and to compensate for deficiencies in toner or paper quality.
+Descreening,Removal of halftone dot patterns during or after scanning printed matter by defocusing the image. This avoids moire patterning and color shifts during subsequent halftone reprinting.
+Dialog box,A window that displays additional options or questions when a command is chosen.
+Dial-up line,"A communication connection from your computer to a host computer over standard phone lines. Unlike a dedicated line, you must dial the host computer in order to establish a connection. Dial-up line is currently the most popular form of Net connection for the home user."
+Dichroic Mirror,"A special type of interference filter, which reflects a specific part of the spectrum, whilst transmitting the rest. Used in scanners to split a beam of light into RGB components."
+Digital,"Data or voltages consisting of discrete steps or levels, as opposed to continuously variable analog data."
+Digitizers,A machine which converts analog data into digital data on a computer (such as a scanner digitizing pictures or text).
+DIP switches,Dual Interface Poll switches allow for either an ON or OFF setting with any number of circuits. DIP switches commonly allow you to change the configuration of a circuit board to suit your particular computer.
+Direct connection,A permanent communication connection between your computer system (either a single CPU or a LAN) and the Internet. This is also called a leased line connection because you are leasing the telephone connection from the phone company. A direct connection is in contrast to a SLIP/PPP or dial-up connection.
+Direct-To-Plate,"Direct exposure of image data onto printing plates, without the intermediate use of film."
+Direct-To-Press,Elimination of intermediate film and printing plates by the direct transfer of image data to printing cylinders in the press.
+Directory,A system that your computer uses to organize files on the basis of specific information.
+Disk Defragmenter,"Arranges the blocks of information for a file into adjacent blocks on your hard drive, which may significantly improve the file access times."
+Dmax,The point of maximum density in an image or an original.
+Dmin,The point of minimum density in an image or an original.
+DNS,"Domain Name System. A general purpose distributed, replicated, data query service. Its principal use is the lookup of host IP addresses based on host names. The host names are also known as domain names. Some important domains are: .COM (commercial), .EDU (educational), .NET (network operations), .GOV (U.S. government), and .MIL (U.S. military). Most countries also have a domain. For example, .US (United States), .UK (United Kingdom), .AU (Australia)."
+Domain Name Server,"A computer that converts host names, such as rohan.sdsu.edu to its corresponding IP Address, such as 191.130.1.10. An SDSU computer provides this service any time mail is sent or received and permits users to use TELNET and FTP between SDSU and other sites."
+DOS,Disk Operating System. The operating system used on IBM personal computers and compatible machines.
+Dotted Decimal Notation,The convention for writing 32-bit IP Addresses as a set of four 8-bit numbers written in base 10 with periods separating them.
+Down-Sampling,"The reduction in resolution of an image, necessitating a loss in detail."
+Download,To retrieve a file from another computer using a modem.
+dpi,"Dots Per Inch. A measure of the resolution of a printer, scanner, or monitor. It refers to the number of dots in a one-inch line. The more dots per inch, the higher the resolution."
+Driver,"A piece of software that tells the computer how to operate an external device, such as a printer, hard disk, CD-ROM drive, or scanner. For instance, you can't print unless you have a printer driver. Hard disk drivers are invisible files that are loaded into memory when you start the computer, while scanner drivers are usually plug-ins accessed from within a particular application."
+Drum Scanner,"Early drum scanners separated scans into CMYK data, recording these directly onto film held on a second rotating drum."
+DTP,Desktop Publishing.
+Dump,Back-up of data.
+"Duplex (Full, Half)",Full duplex is data is flowing in both directions at the same time. When Remote echo is ON communication is occurring in full duplex. Half Duplex has data moving in only one direction at a time (Local echo is ON).
+DXF,Drawing Interchange Format used for Macintosh graphic files. The standard file-exchange format for 3-D and CAD programs.
+Dye Sublimation,"A printing process using small heating elements to evaporate pigments from a carrier film, depositing these smoothly onto a substrate."
+EARN,European Academic Research Network.
+"Echo (Local, Remote)",Local echo ON causes all transmitted data to be sent to the screen of the sending computer. Remote echo ON causes everything that the remote computer (the one you are communicating with) transmits to be duplicated on your computer's screen. See Duplex.
+EBCDIC,Extended Binary-Coded Decimal Interchange Code. A standard character-to-number encoding used primarily by IBM computer systems. See ASCII.
+E-mail,"Electronic Mail. Private messages sent between users on different computers, either over a network or via a modem connection to an on-line service or BBS."
+Encoding,"File transfer formatting that enables encrypted, compressed or binary files to be transferred without corruption or loss of data."
+Encryption,A way of coding information in a file or e-mail message so that if it is intercepted by a third party as it travels over a network it cannot be read.
+EPS,"Encapsulated PostScript. An EPS file usually has two parts: a PostScript (text) description that tells a PostScript printer how to output the resolution-independent image, and (optionally) a bit-mapped PICT image for on-screen previews. (EPS files without a PICT preview is usually displayed as a gray rectangle.) EPS files generally can't be edited, even by the program that created them (Illustrator files are exceptions)."
+EPS 5,Another term used for DCS.
+ERIC,"An index to educational journal articles and documents collected by national clearing houses for educational information. It provides summaries of the articles and documents, and contains citations back to 1966."
+Ethernet,"An IEEE 802.3 standard data link layer which can operate over several different media including fiber optic, coaxial cable and twisted-pair cable. This 10 million-bit-per-second networking scheme is widely used on campus because it can network a wide variety of computers; it is not proprietary; and components are widely available from many commercial sources."
+Executable File,"Refers to a file that is a program. Executables in DOS and Windows usually have an .exe or a .com extension. In UNIX and Macintosh environments, executable files can have any name."
+External viewer,"Program used for presenting graphics, audio and movies while browsing World Wide Web pages via a Web client program. Helper applications is another term for these external programs."
+FAQ,Frequently Asked Questions. A document that covers a topic of general concern to many users. FAQs are a good way for new users to get information on various aspects of the Internet.
+FDDI,Fiber Distributed Data Interface. An emerging standard for network technology based on fiber optics that has been established by the American National Standards Institute (ANSI). FDDI specifies a 100-million bit per second data rate.
+File,"A collection of information on a disk, usually a document or a program, that's lumped together and called by one name."
+File Permissions,"When you place files on a UNIX system you can assign the files various levels of permission, specifying who can access them, and what type of access they can have."
+File Server,"A computer that shares its resources, such as printers and files, with other computers on the network. An example of this is a Novell NetWare Server which shares its disk space with a workstation that does not have a disk drive of its own."
+Film Recorder,"Used in reference to color transparency recording devices, and sometimes also to imagesetters."
+Filter,"A piece of software that an application uses for file-format conversion or special effects. PageMaker, for example, has a filter that lets it import Microsoft Word files, while Photoshop has dozens of filters for special effects (such as image blurring). Filters can be part of the main application or external programs called plug-ins."
+Finger,A program that displays information about someone on the internet.
+Firewall,"A mechanism that isolates a network from the rest of the Internet, permitting only specific traffic to pass in and out."
+Flaming/Flame War,Reacting to someone's newsgroup posting or e-mail in a hostile manner by publicly chastising the person or bombarding the person with nasty e-mail.
+Flatbed Scanner,"Any scanning device that incorporates a flat transparent plate, on which original images are placed for scanning. The scanning process is linear rather than rotational."
+Floating-point Processor,"A special chip that handles sophisticated calculations, such as those used in spreadsheets, CAD, and scientific programs."
+Folder,"An object that can hold other objects, such as other folders and files."
+Font,The software that creates a typeface on a computer screen.
+Format,To initialize a disk to prepare it for use. The disk is checked for errors and organized so that data can be recorded and retrieved. Formatting a used disk erases any previously stored information.
+FPO,For Position Only. A low resolution image placed in a document to indicate where the final version is to be positioned.
+Fragmentation,"A condition where parts of a file are stored in different locations on a disk. When a file is fragmented, the drive's read/write head has to jump from place to place to read the data; if many files are fragmented, it can slow the drive's performance."
+Frame-grabbing System,"A combination of hardware and software, designed to capture individual frames from video clips for further digital manipulation, or consecutive replay on computer platforms."
+FTP,File Transfer Protocol. The Internet standard high-level protocol for transferring files from one computer to another across the network.
+FTP site,A computer which stores files that can be retrieved using FTP. FTP sites which allow anyone to retrieve files (without having an account on that computer) are known as Anonymous FTP sites.
+Gamma,"The curve that describes how the middle tones of your images appear. Often incorrectly referred to as ""brightness"" and/or ""contrast"", gamma is a non-linear function. Changing the value of the gamma affects middle tones while leaving the white and black of the image alone. Used to compensate for differences between Macintosh and PC monitors."
+Gamma Correction,"The correction of tonal ranges in an image, normally by the adjustment of tone curves."
+Gamut,"The limited range of colors provided by a specific input device, output device or pigment set."
+Gang Scanning,Sequential scanning of multiple originals using the same previously defined exposure setting for each.
+Gateway,A special-purpose dedicated computer that attaches to two or more disparate networks and converts data packets from one form to another.
+GB,Gigabyte. A unit of data storage size which represents 10^9 (one billion) characters of information.
+Gb,"Gigabit. 10^9 bits of information (usually used to express a data transfer rate; as in, 1 Gigabit/second = 1Gbps)."
+GCG (Grey Component Replacement),A technique for replacing all the neutral tones of an image with an appropriate amount of black.
+GIF,Graphic Interchange Format (pronounced jiff). A file compression format developed by CompuServe for transferring graphic files to and from on-line services.
+Gigabyte,"1,024 megabytes, or 1,048,576 kilobytes of digital data."
+gopher,A consistent user interface and gateway into many on-line white pages and other address databases.
+Graphical User Interface (GUI),The graphical visual representation of the working environment that presents the elements of your computer as objects on a desktop.
+Grey Balance,The balance between CMY colorants required to produce neutral greys without a color cast.
+Grey Levels,"Discrete tonal steps in a continuous tone image, inherent to digital data. Most CT images will contain 256 grey levels per color."
+Greyscale,"A continuous tone image comprising black, white, and grey data only."
+Hacker,"Slang term for a technically sophisticated computer user who enjoys exploring computer systems and programs, sometimes to the point of obsession."
+Halftone,A simulation of continuous tones by the use of black or overlapping process color dots of varying size or position.
+Halftoning Factor,See quality factor.
+Halo,"A light line around object edges in an image, produced by the USM (sharpening) technique."
+Handle,Unique character string identifier assigned to each entry in the NIC WHOIS database.
+Handshaking,The process computers and modems go through in order to establish a connection and agree on the speed and protocols for data transmission.
+Hayes Compatible,A modem is considered Hayes Compatible if it supports the Hayes command set (a language used to communicate with and control a modem).
+Header,"The portion of a packet, preceding the actual data, containing source and destination addresses, error checking and other fields. A header is also the part of an electronic mail message that precedes the body of a message and contains, among other things, the message originator, date and time."
+High Key,A light image that is intentionally lacking in shadow detail.
+Highlight,"The lightest tones in an image. A spectral highlight is a bright, reflected light source."
+Histogram,A chart displaying the tonal ranges present in an image as a series of vertical bars.
+Home Page,"The document that is displayed when you first open a web client program. Also, commonly used to refer to the first document you come to in a collection of documents on a Web site."
+Host,The main computer system to which users are connected.
+Hostname,Name which officially identifies each computer attached to the Internet.
+Hotlist,"A file containing lists of Internet Web pages, enabling you to easily access your favorite Web pages."
+HP,Hewlett Packard.
+HTML,"HyperText Markup Language. A system for tagging various parts of a Web document that tells the Web client programs how to display the document's text, links, graphics and attached media."
+Hue,The color of an object perceived by the eye due to the fact that a single or pair of RGB primary colors predominates.
+Hypermedia,"Describes hypertext in which various types of data can be stored - sound, images, video and so on - as regular text."
+Hypertext,"A text-linking strategy that lets you jump between related information in a document by clicking on a button or highlighted word. On-line help systems often use hypertext links, as do some programs designed for the electronic distribution of documents."
+I/O,Input/Output.
+I-beam,The blinking vertical line that shows the point at which text or graphics will be inserted.
+IBM,International Business Machines Corporation.
+Icon,"A graphic symbol, usually representing a file, folder, disk or tool."
+Image Map,"A graphic divided into regions or ""hotspots"". When a particular region is clicked, it calls up a web page that has been associated with that particular region."
+Imagesetter,A device used to record digital data (images and text) onto monochrome film or offset litho printing plates by means of a single or multiple intermittent light beams. Color separated data is recorded as a series of slightly overlapping spots to produce either solid areas of line-art or halftone dots for printing continuous tones.
+Import,"To bring data into a document from another document, often generated by a different application."
+Inactive Window,A window that is open but is not the top window.
+Infopath,Internet gopher for the University of California at San Diego.
+Information Technology,"Includes matters concerned with the furtherance of computer science and technology, design, development, installation and implementation of information systems and applications."
+Initializing (formatting),"Setting up a disk (any kind) to receive information. When a disk is initialized (formatted), its magnetic media is divided into tracks and sectors, and structure files that your computer uses to keep track of data are created."
+Inline images,"Graphics that are contained within a document's textual information. In a Web document, these graphics can either be loaded automatically when the page is accessed or loaded manually by clicking on the image's icon."
+Installer,"A utility that copies system software or an application from floppy disks or a CD-ROM to your hard disk. An Installer may also decompress the new files, remove obsolete files, place extensions and control panels in their proper folders, and/or create new folders."
+Interface,The way a computer interacts with a user or a peripheral.
+Internet,"The Internet (note the capital I) is the largest internet in the world. It is a three level hierarchy composed of backbone networks (e.g., NSFNET, MILNET), mid-level networks, and stub networks. The Internet is a multiprotocol internet."
+Interpolation,"In the image manipulation context, this is the increase of image resolution by the addition of new pixels throughout the image, the colors of which are based on neighboring pixels."
+Interrupt,A brief interruption of the computer's activity so that an urgent task can be performed.
+IP,Internet Protocol is the standard that allows dissimilar hosts to connect to each other through the Internet. This protocol defines the IP datagram as the basic unit of information sent over the Internet. The IP datagram consists of an IP header followed by a message.
+IP Address,"Network addresses are usually of two types: (1) the physical or hardware address of a network interface card; for Ethernet this 48-bit address might be 0260.8C00.7666. The hardware address is used to forward packets within a physical network. (2) The logical or IP Address is used to facilitate moving data between physical networks and is made up of a network number, a subnetwork number, and a host number. All Internet addresses at SDSU have a network number of 130.191, a subnet number in the range of 1-254, and a host number in the range of 1-254."
+IP Datagram,The basic unit of information passed across the Internet. An IP Datagram is to the Internet as a hardware packet is to a physical network. It contains a source and destination address along with data. Large messages are broken down into a sequence of IP Datagrams.
+IRC,"Internet Relay Chat. A program that allows you to carry on ""live"" conversations with people all over the world by typing messages back and forth across the Internet."
+ISAAC,"Information System for Advanced Academic Computing. Serves as a clearinghouse for information about the use of IBM-compatible hardware and software as aids to instruction and research in higher education. Membership is free to all students, faculty, and staff at these institutions."
+ISO,"International Organization for Standardization, the group that developed the OSI protocols."
+ISP,"Internet Service Provider. A company that provides access to the Internet. A service provider can offer simple dial-up access, SLIP/PPP access, or a dedicated line."
+IT8,Industry standard color reference target used to calibrate input and output devices.
+ITV,Interactive Television.
+Jaggies,See aliasing.
+Java,An object-oriented programming language to create executable content (i.e. self-running applications) that can be easily distributed through networks like the Web.
+JPEG,"Joint Photographic Experts Group is a graphic file format that has a sophisticated technique for compressing full-color bit mapped graphics, such as photographs."
+KB,KiloByte. A unit of data storage size which represents 10^3 (one thousand) characters of information.
+Kb,"Kilobit. 10^3 bits of information (usually used to express a data transfer rate; as in, 1 Kilobit/second = 1Kbps = 1Kb)."
+Kermit,"An error-checking file-transfer protocol used to copy files from one computer to another. Also the name given to the public domain software distributed by Columbia University, which supports this protocol."
+Kernel Size,The number of pixels sampled as a unit during image manipulation and sharpening processes.
+Keyword,Specified words used in text search engines.
+Kilobyte (Kb),"1,024 bytes of digital data."
+LAN,"Local Area Network. A network of directly-connected machines (located in close proximity), providing high speed communication over physical media such as fiber optics, coaxial cable, or twisted pair wiring."
+Laser Printer,"Although a number of devices employ laser technology to print images, this normally refers to black-and-white desktop printers, which use the dry toner, xerographic printing process."
+Laserdisc,A 12-inch disk that's similar to an audio CD but holds visual images (such as high-quality movies) as well as music. Also called a videodisc.
+Links,"Synonymous with anchors, hotlinks and hyperlinks."
+Line Art,Images containing only black and white pixels. Also known as bilevel images. The term line art is sometimes used to describe drawings containing flat colors without tonal variation.
+LION,"Library Internet Online Network. A menued front-end system at SDSU that allows access to a number of databases such as library on-line catalogs, periodical indexes, and Internet gophers."
+LISTSERV,A distribution list management package whose primary function is to operate mailing lists. It allows groups of computer users with a common interest to communicate among themselves.
+Local system,"The system you are using. Interactions between your computer and another computer on the Internet are sometimes described using the terms ""local"" and ""remote"" systems. The local system is your computer and the remote system is the other computer."
+LOCIS,"Library of Congress catalog system. The Library of Congress has an extensive and useful congressional legislation system that you can use to look up the bills that are in Congress, as well as having nearly any book ever published in the United States."
+Login,The account name used to access a computer system.
+Lossy,"Image compression that functions by removing minor tonal and/or color variations, causing visible loss of detail at high compression ratios."
+Low Key,A dark image that is intentionally lacking in highlight detail.
+LPI/LPCM,Lines per inch or per centimeter. Units of measurement for screen ruling.
+Lurker,"Slang term for someone who regularly reads newsgroup, BBS, or mailing list discussions, but rarely participates in them."
+Lynx,A type of browser designed to work with text-only Internet connections like dial-up UNIX shell accounts.
+LZW,The Lempel-Ziv-Welch image compression technique.
+Mail Merge,"The merging of database information (such as names and addresses) with a letter template in a word processor, in order to create personalized letters."
+Mailing List,"A list of Email users who are members of a group. A mailing list can be an informal group of people who share Email with one another, or it can be a more formal LISTSERV group which discusses a specific topic."
+Mainframe,"A large, multi-tasking computer that is used by many users."
+Marvel,"Machine-Assisted Realization of the Virtual Electronic Library. The Library of Congress' gopher. It presents information about the Library of Congress such as facilities and services, reading rooms, copyright, services to libraries and publishers, etc., as well as other Internet resources."
+Math Coprocessor,Another name for a floating-point processor.
+Matrix,This often refers to a 2-dimensional array of CCD elements.
+Medium,"The material used to support the transmission of data. Examples include twisted-pair wire, coaxial cable, optical fiber, or electromagnetic wave (microwave)."
+Megabit (Mb),"Megabit. 10^6 bits of information (usually used to express a data transfer rate; as in, 1 Megabit/second = 1Mbps)."
+Megabyte (MB),MegaByte. A unit of data storage size which represents 10^6 (one million) characters of information.
+Megahertz (MHz),"A million cycles (occurrences, alterations, pulses) per second. Used to describe the speed at which a computer's processor (or CPU) operates."
+Melvyl,"An on-line catalog system containing books, music scores and recordings, audiovisual materials, maps, and computer files from UC libraries and the California State Library. Also featured are periodicals from several sources."
+Memory,"In general, another word for dynamic RAM, the chips where the computers store system software, programs, and data you are currently using. Other kinds of computer memory you may encounter are parameter RAM (PRAM), video RAM (VRAM), and static RAM (SRAM). Most computer memory is volatile, that is, its contents are lost when the computer shuts down."
+Menu,A list of commands.
+Menu Bar,The horizontal bar that contains the names of available menus. The menu bar is located below the title bar.
+Message,"A collection of data that is ordered according to the rules of a given protocol suite, such that it is intelligible to the sending and receiving software."
+MHz,"Megahertz. A million cycles (occurrences, alterations, pulses) per second. Used to describe the speed at which a computer's processor (or CPU) operates. A 25-MHz processor can handle 25 million operations per second."
+MIDI,Musical Instrument Digital Interface. A technology that enables a computer to record and play musical performance.
+Midtone,The middle range of tones in an image.
+MILNET,Military Network. A network used for unclassified military production applications. It is part of the DDN and the Internet.
+MIME,"Multi-purpose Internet Mail Extensions. A format originally developed for attaching sounds, images and other media files to electronic mail, but now also used with World Wide Web applications."
+MIME mappings,"A list of file extensions and the types of files they belong to. When the server sends an HTTP reply, it sends a type/subtype header according to the requested file's extension."
+MIME type/subtype,"An HTTP header sent with a reply that determines how a client will view or use the message. The MIME type tells the general type of document, such as image or application, and the subtype tells the specific type such as GIF or ZIP."
+MIPS,Millions of Instructions Per Second.
+Mirror site,"An FTP site that is created after the contents of an original FTP archive server are copied to it. Usually, mirror sites use larger and faster systems than the original, so it's easier to obtain material from the mirror. Mirror sites are usually updated daily, so everything on the original is also at the mirrors. Tip - Always use the mirror site that is physically closest to you."
+Modem,A device which converts digital signals into analog signals (and back) for transmission over telephone lines (modulator and demodulator).
+Moire,A repetitive interference pattern caused by overlapping symmetrical grids of dots or lines having differing pitch or angle.
+Monochrome,Single-colored. An image or medium displaying only black-and-white or greyscale information. Greyscale information displayed in one color is also monochrome.
+Motherboard,"The heart, soul, and brains of a computer. This plastic board resembles a miniature city, but its buildings are actually chips for things like the processing, RAM, and ROM, and the tiny roads connecting them are circuit traces. Also called the logic board. There are no fatherboards or sonboards, but see daughterboard."
+Mottling,A texture similar to orange peel sometimes caused by sharpening. It is particularly visible in flat areas such as sky or skin.
+MOV,A file extension found on the World Wide Web that denotes that the file is a movie or video in QuickTime format.
+MPEG,Moving Pictures Expert Group. MPEG is an international standard for video compression and desktop movie presentation. You need a special viewing application to run the MPEG movies on your computer. MPEG II is a newer standard for broadcast-quality video.
+Multimedia,"Any presentation or software program that combines several media, such as graphics, sound, video, animation, and/or text."
+Multiplex,The division of a single transmission medium into multiple logical channels supporting many apparently simultaneous sessions.
+Multitasking,"The capability of an operating system to handle multiple processing tasks, apparently, at the same time."
+Native,"Software that's written specifically to run on a particular processor. For example, a program optimized for a 68K processor runs in native mode on a Quadra, but it runs in emulation mode (which is slower on a Power PC-based Power Mac). Also, the file format in which an application normally saves it documents. The native format is generally readable only by that application (other programs can sometimes translate it using filters)."
+Navigation Tools,"Allows users to find their way around a website or multimedia presentation. They can be hypertext links, clickable buttons, icons, or image maps."
+Netiquette,A form of online etiquette. This term refers to an informal code of conduct that governs what is generally considered to be the acceptable way for users to interact with one another online.
+news,"A term often used to denote USENET news, a popular forum for discussion on the Internet."
+newsgroup,"A discussion group, usually found on USENET news. Each group devotes its discussions to a specific topic."
+newsreader,A software program that lets you subscribe to newsgroups as well as read and post messages to them.
+news server,A machine that contains a number of USENET newsgroups. Also referred to a NNTP server.
+Netware,The chief priest of network operating systems.
+Network,"In general, a group of computers set up to communicate with one another. Your network can be a small system that's physically connected by cables (a LAN), or you can connect separate networks together to form larger networks (called WANs). The Internet, for example, is made up of thousands of individual networks."
+NFS,"Network File System. A protocol developed by Sun Microsystems which allows a computer system to access files over a network as if they were on its local disks. This protocol has been incorporated in products by more than two hundred companies, and is now a de facto Internet standard."
+NIC,"Network Information Center. A organization that provides information, assistance and services to network users."
+NOC,"Network Operations Center. A location from which the operation of a network or internet is monitored. Additionally, this center usually serves as a clearinghouse for connectivity problems and efforts to resolve those problems."
+Node,A computer that is attached to a network; sometimes called a host.
+Noise,"In the scanning context, this refers to random, incorrectly read pixel values, normally due to electrical interference or device instability."
+Non-lossy,Image compression without loss of quality.
+NSFNET,"National Science Foundation Network. The NSFNET is a high speed network of networks which is hierarchical in nature. At the highest level is a backbone network which spans the continental United States. Attached to that are mid-level networks and attached to the mid-levels are campus and local networks. NSFNET also has connections out of the U.S. to Canada, Mexico, Europe, and the Pacific Rim. The NSFNET is part of the Internet."
+Object-oriented,Generally used to describe an illustration or font file as being created by mathematical equations. Also see Bit-map.
+OCR,Optical Character Recognition. A technology that lets you scan a printed page (with a scanner) and convert it into text document that you can edit in a word processor.
+Offset lithography,"A high-volume, ink-based printing process, in which ink adhering to image areas of a lithographic plate is transferred (offset) to a blanket cylinder before being applied to paper or other substrate."
+On-line,"Actively connected to other computers or devices. You're on-line when you've logged on to a network, BBS, or on-line service. A device such as a printer is on-line when it's turned on and accessible to a computer. If you're not on-line then you're off-line."
+On-line Service,"A commercial service that (for a price) provides goodies such as e-mail, discussion forums, tech support, software libraries, news, weather reports, stock prices, plane reservations, even electronic shopping malls. To access one, you need a modem. Popular on-line services include America Online, CompuServe, and Prodigy."
+Operating System,Software that supervises and controls tasks on a computer.
+Optical Resolution,"In the scanning context, this refers to the number of truly separate readings taken from an original within a given distance, as opposed to the subsequent increase in resolution (but not detail) created by software interpolation."
+Optical Video Disc,Compact discs which use lights to read information.
+OSI,"Open Systems Interconnection, a set of standard protocol grouped into seven layers: the physical, data link, network, transport, session, presentation, and application layers."
+PAC,"Public Access Catalog. The SDSU University Library's on-line catalog which lists the books held here and the journals subscribed to (but not their contents. It also provides information on circulation status, books and journals ordered but not yet received, receipt of journal issues, and more."
+Packet,"The unit of data sent across a packet switching network. While some Internet literature use the term to refer specifically to data sent across a physical network, other literature views the Internet as a packet switching network and describes IP Datagrams as packets."
+Packet-switching,"Data transmission process, utilizing addressed packets, whereby a channel is occupied only for the duration of the packet transmission. SDSUnet is a are packet-switching network."
+Paint,"The oldest and most limited Macintosh graphic file format, holding only black-and-white bit maps at 72 dpi. Paint files (file type PNTG) are limited to 8 by 10 inches."
+Parallel Cable/Parallel Port,A cable used to connect peripheral devices through a computer's parallel port. A type of port that transmits data in parallel (several bits side by side).
+Parameter,"A word, number, or symbol that is typed after a command to further specify how the command should function."
+Parity,"A check bit used to make the sum of the bits in a unit of data either even or odd (including the parity bit). A unit of data that is 8 bits long would have no parity, and a unit of data 7 bits long would have an even parity bit to make an 8 bit word. Parity is used to check a unit of data for errors during transmission through phone lines or null modem cables."
+Paste,To insert information from the Clipboard. Information can be pasted multiple times.
+Path,"A route used in finding, retrieving, and storing files on a disk. The course leading from the root directory of a drive to a particular file."
+PERL,The Practical Extraction and Report Language. An interpreted language for CGI scripts.
+PCMCIA,"A standard format for credit-card-size expansion cards, used to add features to laptop computers, hand-held computers, and desktop computers. The acronym stands for Personal Computer Memory Card International Association."
+PDF,Portable Document Format. A PDF file is an electronic facsimile of a printed document.
+Peer-to-peer,"A network setup that allows every computer to both offer and access network resources, such as shared files, without requiring a centralized file server. Macintosh computers utilize this type of network setup."
+Peripheral,"A piece of hardware that's outside the main computer. It usually refers to external hardware such as disk drives, printers, and scanners sold by a third party."
+PERL,Practical Extraction and Reporting Language. A robust programming language frequently used for creating CGI programs on web servers.
+PICS,"The standard macintosh graphic file format for animations. Essentially a collection of bit-mapped PICT images in sequential order, much like movie frames."
+PICT/PICT 2,"PICT is the standard macintosh graphic file format for graphics that are cut or copied to the Clipboard and for drawings that won't be output on PostScript printers. This format is ideal for on-screen presentations, but page layout programs sometimes have problems with PICT files. Files are sometimes called metafiles because they can contain both bit maps and QuickDraw-based objects."
+Pixel,"Picture element. Digital images are composed of touching pixels, each having a specific color or tone. The eye merges differently colored pixels into continuous tones."
+Pixel Skipping,A means of reducing image resolution by simply deleting pixels throughout the image.
+PKZIP/PKUNZIP,"A software compression utility for the PC. It allows you to compress or ""zip"" a file or a number of files into one archive file in the ZIP file format."
+Plug-In,"Extends the capabilities of a web browser, allowing the browser to run multimedia files."
+PMT,Photomultiplier tube. The light sensing device generally used in drum scanners.
+POP,"A server using the Post Office Protocol, which holds users' incoming e-mail until they read or download it."
+Port,"One of several rendezvous points where TCP/IP connections can be made on a computer. Ports are numbered, with several locations reserved for specific types of network activity, such as telnet on port 23, HTTP traffic on port 80 and USENET news (NNTP) on port 119."
+Posterization,The conversion of continuous tone data into a series of visible tonal steps or bands.
+ppi/ppc,Pixels per inch or pixels per centimeter. Units of measurement for scanned images.
+PPP,Point-to-Point Protocol. It provides a method for transmitting packets over serial point-to-point links.
+PRAM,"Parameter RAM (pronounced pee-ram). A small portion of the Mac's RAM set aside to hold basic information such as the date and time, speaker volume, desktop pattern, and key-board and mouse settings. PRAM is powered by a battery, so it doesn't lose the settings when you shut down. Sometimes, however, the PRAM data gets corrupted, causing crashes or other problems."
+Primary color,A base color that is used to compose the other colors.
+Process Ink Colors,"CMYK pigments used in printing processes, chosen to produce the widest range of color mixtures."
+Profile,"The color characteristics of an input or output device, used by a CMS to ensure color fidelity."
+Properties,"Information about an object, including settings or options for that object. For example, you look at properties of a file for information such as the file size, file type, and file attributes."
+Protocols,"When data is being transmitted between two or more devices something needs to govern the controls that keep this data intact. A formal description of message formats and the rules two computers must follow to exchange those messages. Protocols can describe low-level details of machine-to-machine interfaces (e.g., the order in which bits and bytes are sent across wire) or high-level exchanges between application programs (e.g., the way in which two programs transfer a file across the Internet)."
+Proxy ARP,"A technique in which one machine, usually a gateway, answers ARP requests for another machine. By pretending to be the physical network location of another machine, the gateway takes over the responsibility of routing packets destined for the other machine. For instance, a gateway can proxy ARP for addresses that the gateway identifies as being off the local network and that the gateway has a route for. The originating computer receives the gateway's proxy ARP reply and sends the datagram on to the gateway, which routes the datagram to its actual destination network."
+PSN,Packet Switch Node; a store-and-forward packet switch (formerly called an IMP).
+Public-domain,"Software that has no copyright or fee, which means you can copy, use, and even alter and sell it."
+Quality Factor,A multiplication factor (between 1 and 2) applied to output screen ruling to calculate scanning resolution for optimum output quality. This is also known as the halftoning factor.
+Quarter Tones,Tones between shadow and midtones are known as 3/4 tones and those between highlight and midtones are known as 1/4 tones.
+Query,"The process by which a web client requests specific information from a web server, based on a character string that is passed along."
+QuickTime,"A file extension for videos or ""movies"" (like animations) compressed using their QuickTime format."
+RAM,"Random Access Memory. RAM is the most common type of computer memory, and it's where the computer stores system software, programs, and data you are currently using. It's formally called dynamic RAM (DRAM) because it's volatile, that is, the contents are lost when you turn off the computer (or crash). It's pronounced ram and measured in megabytes."
+Raster,A synonym for grid. Sometimes used to refer to the grid of addressable positions in an output device.
+Rel,Recorder element. The minimum distance between two recorded points (spots) in an imagesetter.
+Remote system,"Another computer on the Internet to which you connect. Interactions between computers are often described using the terms ""local"" and ""remote"" systems. The local system is your computer and the remote system is the other computer."
+Res,A term used to define image resolution instead of ppi. Res 12 indicates 12 pixels per millimeter.
+Resampling,"An increase or reduction in the number of pixels in an imge, required to change its resolution without altering its size. See also down-sampling and interpolation."
+Resolution,"In general, this refers to how sharp and clear an image looks on screen or on paper, and how much detail you can see. It's usually determined by the number of dots (or pixels) per square inch (the more there are, the higher the resolution) and is used to describe printers, monitors, and scanners."
+RFC,"Request For Comments; technical note series which began in 1969 describing DARPA and Internet research and development, particularly in the areas of protocol design and internetworking. Not all (in fact very few) RFCs describe Internet standards, but all Internet standards are written up as RFCs."
+RGB,"Red, green, and blue are the primary colors of light perceived by the eye."
+RIP,Routing Information Protocol used by Berkeley UNIX systems to exchange routing information among a set of computers attached to a network. RIP packets are sent and received by a program called routed.
+ROGER,On-line catalog at UCSD for books and other material in the libraries at the University of California at San Diego.
+ROM,"Read-Only Memory. It's like software that's hard-wired into your computer - basic, permanent information that tells it things like how to load up the operating system when you turn it on."
+Router,A special purpose computer that attaches to two or more networks and routes packets from one network to the other. A router uses network layer addresses (such as IP Addresses) to determine if packets should be sent from one network to another. Routers send packets to other routers until they arrive at their final destination.
+rpi,Rels (recorder elements) per inch. A measurement of the number of discrete steps that exposure units in imagesetting devices can make per inch.
+RS-232,"Interface between Data Terminal Equipment (DTE) and Data Communications Equipment (DCE) employing Serial Binary Data Interchange, a standard set by the international standards organization - Consultative Committee on International Telegraphy and Telephony. The interface between a terminal to a modem for the transfer of serial data."
+RTF,Rich Text Format. A file format for text files that includes formatting instructions. Also called Interchange Format.
+Sampling,The process of converting analog data into digital data by taking a series of samples or readings at equal time intervals.
+Saturation,"The extent to which one or two of the three RGB primaries predominate in a color. As quantities of RGB equalize, color becomes desaturated towards grey or white."
+Scanner,A device that converts images (such as photographs) into digital form so that they can be stored and manipulated on computers.
+Screen Frequency,"The number of rows or lines of dots in a halftone image within a given distance, normally stated in lines per inch (lpi) or lines per centimeter (lpm). A frequency of 200 lpi would only be used in high-quality printing."
+Screen Ruling,Another term used for screen frequency.
+Screen Saver,A moving picture or pattern that is displayed on the screen when no activity takes place for a specified period of time.
+Scripts,A type of program that consists of a set of instructions for another application or utility to use.
+Scroll Bar,The bar that appears at the right side or the bottom of a window that contains more information that can be displayed. The scroll bar is used to scroll an object or parts of a document into view when the entire object or document does not fit in the window.
+SDSUnet,San Diego State University Network. The backbone network that connects multiple buildings on the SDSU campus.
+Search Engines,"A type of software that creates indexes of databases or Internet sites based on the titles of files, key words, or the full text of files."
+Second Original,"High-quality, contone reproduction of an image, intended to be identical to the original."
+Secondary Color,"Color obtained by mixing two primary colors. Although known as primary colorants, C,M, and Y are the secondary colors of light. Red plus green produce yellow, for example."
+Serial Cable/Serial Port,"A cable used to connect peripheral devices through a computer's serial port. Normally a 25-pin connector on each end, yet can be a 9-pin on one. A Serial Port can either be plugged into an expansion slot on the motherboard of your computer or built into the motherboard itself. Serial ports are used for such devices as printers, mice, and modems."
+Server,"A computer that shares its resources, such as printers and files, with other computers on the network. An example of this is a Novell NetWare Server which shares its disk space with a workstation that does not have a disk drive of its own."
+Service (NT service),A process that performs a specific function in Windows NT and can be called by various other programs. Windows NT provides tools to monitor and administer services.
+Shadow,The darkest area of an image.
+Shareware,"Software that you can try before you buy. It's distributed through on-line services, BBSs, and user groups. You're allowed to try it out and give copies to others, but if you want to keep using it, you must pay the registration fee."
+Shockwave,A set of programs that allow Macromedia Director animation files to be played over the internet with a web browser.
+Site,Organization or facility where a host is located.
+Site-license,"Through negotiations with a vendor, a renewable fee has been paid to allow a fixed number of copies of copyrighted software at one site."
+SLIP,"Serial Line Internet Protocol. A protocol used to run IP over serial lines, such as telephone circuits or RS-232 cables, interconnecting two systems."
+SMTP,Simple Mail Transfer Protocol. Internet standard protocol for transferring electronic mail messages from one computer to another. SMTP specifies how two mail systems interact and the format of control messages they exchange to transfer mail.
+Socket,Logical address of a communications access point to a specific device or program on a host.
+SPAM,Refers to the practice of blindly posting commercial messages or advertisements to a large number of unrelated and uninterested newsgroups.
+Speckling,"Isolated light pixels in predominantly dark image areas, sometimes caused by incorrect readings or noise in the scanning device."
+Spectral Highlight,A bright reflection from a light source containing little or no detail.
+Spectrophotometer,"An extremely accurate color measurement device using a diffraction grating to split light into its components wavelengths, which are then measured by numerous light sensors."
+Spreadsheet,A number-related document whereby calculations and formulas are applied to the data organized in rows and columns of cells.
+SQL,"Structured Query Language, a syntax used by many database systems to retrieve and modify information."
+Staircasing,See Aliasing.
+Start/Stop Bits,A start bit signals the start of a unit of data in asynchronous communications. A stop bit signals the stop of a unit of data. The unit can vary in length depending on the protocol.
+Subnet Address,An extension of the Internet addressing system that allows a site to subdivide a single Internet address to cover multiple physical networks. This is done by dividing up the host address part of an IP Address into a local network number and host address number.
+Substrate,"The base material used to carry out or support an image, for example, paper or film."
+Subtractive Primaries,Another term for primary colorants.
+Supersampling,"The capture of more grey levels per color than is required for image manipulation or output. This additional data allows shadow details to be heightened, for example."
+Syntax Error,Occurs when a user (or programmer) has put words in an order that a program does not understand.
+T1,An AT&T term for a digital carrier facility used to transmit a DS-1 formatted digital signal at 1.544 megabits per second.
+T3,A term for a digital carrier facility used to transmit
+Tags,Formatting codes used in HTML documents. These tags indicate how the parts of a document will appear when displayed by a Web client program.
+Taskbar,"An area that runs across the bottom (usually) of the Windows 95 desktop. Running applications are represented as buttons on the taskbar, the current window is shown as a depressed button, all other applications are displayed as raised buttons."
+TCP,"Transmission Control Protocol. This is a transport layer protocol that establishes a reliable, full duplex, data delivery service used by many TCP/IP application programs. The TCP software uses the IP protocol to transmit information across the Internet."
+TCP/IP,"Transmission Control Protocol/Internet Protocol. A set of protocols, resulting from ARPA efforts, used by the Internet to support services such as remote login (TELNET), file transfer (FTP) and mail (SMTP)."
+TELNET,The Internet standard protocol for remote login (terminal connection) service. TELNET allows a user at one site to interact with a remote timesharing system at another site as if the user's terminal were connected directly to the remote computer.
+Terminal,"Communication device that lets a user send information to a computer by typing on a keyboard, and prints responses from the computer on paper or a screen."
+Terminal Mode,"Many communications programs allow you to mimic a computer terminal, which is basically a keyboard and CRT display and/or a printer. A common terminal mode emulator is VT-100."
+Terminal Ready (TR),This light is illuminated when your computer has turned on the RS-232 (serial) interface. Sometimes this light will not come on until you have loaded your communications software into memory.
+Terminal Server,"A small, specialized, networked computer that connects many terminals to a LAN through one network connection. A terminal server can also connect network users to asynchronous ports or a host."
+Thermal Wax Transfer,"A printing process using small heating elements to melt dots of wax pigment on a carrier film, which are then transferred to paper or transparent film by contact. This differs from the dye sublimation process in that individual dots do not fuse together, so thermal wax transfer appears to be of a lower resolution."
+Thread,"In the context of Windows NT, a thread is sometimes used to refer to an NT service. Threading also refers to a low-level system architecture concept used in some multitasking operating systems."
+Threshold,The point at which an action begins or changes. The threshold setting used in scanning line art determines which pixels are converted to black and which will become white. The threshold defined in the USM process determines how large a tonal contrast must be before sharpening will be applied to it.
+TIFF,"Tag Image File Format. A graphic file format, TIFF files are also bit maps, but they can be any size, resolution, or color depth. It is the most versatile, reliable, and widely supported bit-mapped format and is the standard format for saving scanned images. However, the format does have several variations which means that occasionally an application may have trouble opening a TIFF file created by another program."
+Title bar,The horizontal bar at the top of a window. The title bar shows the name of the window.
+Tone Curves,"Also known as gamma curves. These are used to smoothly adjust the overall tonal range of an image, or the individual tonal ranges of each color channel."
+Toolbar,A collection of buttons that typically make the more common tools for an application easily accessible.
+TSR,Terminate and Stay Resident.
+USM,Unsharp masking. A process used to sharpen images.
+UUCP,"UNIX-to-UNIX Copy Program. This was initially a program run under the UNIX operating system that allowed one UNIX system to send files to another UNIX system via dial-up phone lines. Today, the term is more commonly used to describe the large international network which uses the UUCP protocol to pass news and electronic mail."
+Uncover,"A database of book reviews, magazines, and articles, including FAX article delivery. It provides table of contents information for over 14,000 journals in all disciplines held by the libraries in the Colorado Academic and Research Libraries consortium and provides on-line access to ERIC, at education database. Coverage for most journals begins with 1989."
+UNICOS,A version of the UNIX operating system adapted for CRAY computers.
+UNIX,An operating system developed by Bell Laboratories that supports multiuser and multitasking operations.
+Upload,Send a file to another computer using a modem.
+UPS,Uninterruptible Power Supply. A unit that switches to battery power whenever the power cuts out.
+URI,"Uniform Resource Identifier, a string of characters that represents the location or address of a resource on the Internet and how that resource should be accessed. A URI is a superset of the Uniform Resource Locator."
+URL,"Uniform Resource Locator, a string of characters that represents the location or address of a resource on the Internet and how that resource should be accessed. World Wide Web pages are assigned a unique URL. Each hyperlink on a web page contains the URL of the page to be linked to. http://rohan.sdsu.edu/glossary.shtml is the URL for this page."
+USENET,A network of newsgroups. There are thousands of newsgroups available through USENET. Each one covers a specific topic or subject area.
+User Id,The string of characters that identifies you. The name by which you are known to the network. Also known as username.
+UUCP,"UNIX-to-UNIX Copy Program, a program that lets you copy files between UNIX systems. UUCP protocols are used to transfer news and Email messages through USENET."
+Veronica,"Very East Rodent-Oriented Net-wide Index to Computerized Archies. An index searcher of Gopher repositories. Searches are based on keyword criteria to help users find Gopher-based information without doing a menu-by-menu, site-by-site search."
+Videodisc,A 12-inch disk that's similar to an audio CD but holds visual images (such as high-quality movies) as well as music. Also called a laserdisc.
+Virus,"A program that replicates itself from one file or disk to another without your consent. They are spread through floppy disks, networks, and on-line services and can go undetected (unless you have an antiviral utility) until something goes wrong. Some viruses deliberately destroy data, and even those designed to be benign can cause crashes, slowdowns, and file corruption."
+VMS,Digital Equipment Corporation proprietary operating system which runs on the VAX series of machines.
+VOD,Video On Demand.
+VRAM,"Video RAM. A type of memory dedicated to handling the image displayed on a monitor. VRAM is built into many Macs, and it also comes on display cards."
+WAIS,Wide Area Information Server. WAIS is best at searches for various sources of academic information that has been indexed based on content. Its indexes consist of every word in a document and each word carries the same weight in a search.
+Wallpaper,A graphical pattern displayed on the desktop.
+Web browser,"Also known as a Web client program, this software allows you to access and view HTML documents. Netscape, Mosaic, Lynx, WinWeb, and MacWeb are some examples of Web browsers."
+Web page,A document created with HTML that is part of a group of hypertext documents or resources available on the World Wide Web.
+Web walking,"Using a Web client program to move through the documents available on the World Wide Web. This casual browsing nature of navigating the WWW has also been referred to as strolling, crawling and jumping."
+Webmaster,A person or group of people who maintain and administer a web server. Webmaster also refers to a standard Email address at most web hosts where comments and questions can be sent.
+White Point,"A movable reference point that defines the lightest area in an image, causing all other areas to be adjusted accordingly."
+WHOIS,"An Internet program which allows users to query databases of people and other Internet entities, such as domains, networks, and hosts. The information for people generally shows a person's company name, address, phone number and email address."
+Wide Area Network (WAN),"Network spanning multiple geographic distances, usually connected by telephone lines, microwave, or satellite links."
+Wildcard,A character (usually * or ?) that can stand for one or more unknown characters during a search.
+Windows,Microsoft software that adds a Mac-like graphical user interface to IBM PCs and compatibles.
+Word Processing,"Entering, editing and formatting text with the use of spelling checkers, outlining, tables, footnotes, and tables of contents."
+Workstation,"A networked personal computing device with more power than a standard IBM PC or Macintosh. Typically, a workstation has an operating system such as UNIX that is capable of running several tasks at the same time. It has several megabytes of memory and a large high-resolution display."
+WWW,World Wide Web or W3 is the hypermedia document presentation system that can be accessed over the Internet using software called a Web browser.
+WYSIWYG,What you see is what you get. The image you see on the screen matches what will print on paper. Pronounced wizzy-wig.
+X.25,A data communications interface specification developed to describe how data passes into and out of public data communications networks. The CCITT and ISO approved protocol suite defines protocol layers 1 through 3.
+Zipped,Compressed version of a program or document.

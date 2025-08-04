@@ -1,0 +1,289 @@
+AC,   Actual cost of the work completed. The sum of the costs incurred in accomplishing work.
+Accept,"   Accepting an opportunity is being willing to take advantage of it if it occurs, but not taking action to pursue it."
+Accept it,"   In some cases the conflict will outlive the life of the project and, though a distraction, it is one the manager has to live with."
+Activity ,  Task (s) of the project that consumes time while people/equipment either work or wait.
+Activity duration ,"  Estimate of time (hours, days, weeks, months, etc.) necessary to complete a project task."
+Actual cost of the work completed (AC),   The sum of the cost incurred in accomplishing work. Previously this was called the actual cost of the work performed (ACWP). 
+Actual cost of the work performed (ACWP),   Actual cost of the work performed in a given time period. The sum of the costs incurred in accomplishing work. 
+Adjourning ,"  For conventional work groups, performing is the last stage of their development. However, for project teams, there is a completion phase. During this stage, the team prepares for its own disbandment. High performance is no longer a top priority, instead attention is devoted to wrapping up the project."
+Agile Project Management (Agile PM),"   A family of incremental, iterative development methods for completing projects. "
+Analysis ,"  Data are collected to record the project history, management performance, and lessons learned to improve future projects. Analysis examines in detail the underlying causes of problems, issues, and successes."
+AOA,   Activity-on-arrow method for drawing project networks. The activity is shown as an arrow.
+AON  , Activity-on-node method for drawing project networks. The activity is on the node (rectangle). 
+Apportionment method ,"  Costs allocated to a specific segment of a project by using a percentage of planned total cost, for example, framing a house might use 25 percent of the total cost, or coding a teaching module 40 percent of total cost. "
+Arbitrate the conflict ,  The manager imposes a solution to the conflict after listening to each party. The goal is not to decide who wins but to have the project win.
+Assumptions,"   Assumptions are factors that, for planning purposes, are considered to be true, real, or certain without proof or demonstration."
+Authority,"   The right to apply project resources, expend funds, make decisions, or give approvals."
+Avoiding risk,   Elimination of the risk cause before the project begins.
+Backward pass ,  The method used to compute the late start and finish times for each activity in the project network.
+Balanced matrix ,  A matrix structure in which the project manager and functional managers share roughly equal authority over the project. The project manager decides what needs to be done functional managers are concerned with how it will be accomplished.
+Balanced scorecard method ,"  Model that measures the long-run results of major program activities in four areas, customer, internal, innovation and learning, and financial. "
+Bar Chart , A graphic presentation of project activities depicted as a time ?scaled bar line (also called a Gantt chart).
+Baseline,"  A concrete document and commitment it represents the first real plan with cost, schedule, and resource allocation. The planned cost and schedule performance are used to measure actual cost and schedule performance. This serves as an anchor point for measuring performance."
+BATNA,   Best alternative to negotiated agreement. Strong or weak BATNA indicates your power to negotiate with the other party. 
+Bottom-up-estimates,   Detailed estimates of work packages usually made by those who are most familiar with the task (also called micro estimate).
+Brainstorming ,  Generating as many ideas/solutions as possible without critical judgment. 
+Bread and butter,   These typically involve evolutionary improvements to current products and services.
+Budget at completion (BAC) ,  Budgeted cost at completion. The total budgeted cost of the baseline or project cost account. 
+Budget reserve,   Reserve setup to cover identified risks that may occur and influence baseline tasks or costs. These reserves are typically controlled by the project manager and the project team. 
+Budgeted cost of the work performed (BCWP) ,  The value for completed work measured in terms of the planned budget for the work. The earned value or original budgeted cost for work actually completed.
+Build-own-operate-transfer (BOOT),"   A risk management provision in which the prime contractor not only builds the facility, but also takes over ownership until its operation capacity has been proven before final transfer of ownership to the client. "
+Burst activity,   An activity that has more than one activity immediately following it.
+Capability maturity model (CMM),   A framework which describes the evolutionary stages of project management systems. 
+Change control ,"  The process of documenting, reviewing, accepting or rejecting change, and documenting any change to the project baseline."
+Change management system ,  A defined process for authorizing and documenting changes in the scope of a project. 
+Change request ," Requests to expand or reduce the project scope, modify policies, processes, plans, or procedures, modify costs or budgets, or revise schedules."
+Changed priority,   Organizations? priorities often change and strategy shifts directions. The oversight group continually revises project selection priorities to reflect changes in organizational direction. 
+Chart of accounts ,"   A hierarchical numbering system used to identify tasks, deliverables, and organizational responsibility in the work breakdown structure."
+Close project or phase (process) ,  The process of finalizing all activities across all of the project management process groups to formally complete the project or phase.
+Closing stage ,"  Closing includes three activities: delivering the project product to the customer, redeploying project resources, and post project review."
+Co-location  , A situation in which project members including those from different organizations work together in the same location.
+Communication plan,    A plan that defines information to be collected and distributed to stakeholders based on their requirements. 
+Concurrent engineering or simultaneous engineering,"   Cross functional teamwork in new-product development projects that provides product design, quality engineering, and manufacturing process engineering all at the same time. "
+Consensus decision making ,  Reaching a decision that all involved parties basically agree with and support. 
+Contingency fund,    See contingency reserve
+Contingency plan ,   A plan that covers possible identified project risks that may materialize over the life of the project.
+Contingency reserve,   Usually an amount of money or time set aside to cover identified and unforeseen project risks. 
+Contract,"  A formal agreement between two parties wherein one party (the contractor) obligates itself to perform a service and the other party (the client) obligates itself to do something in return, usually in the form of a payment to the contractor. "
+Control,"   Comparing actual performance with planned performance, analyzing variances, assessing trends to effect process improvements, evaluating possible alternatives, and recommending appropriate corrective action as needed."
+Control chart,  This tool is used to monitor past project schedule performance and current performance and to estimate future schedule trends.
+Control the conflict,   Reducing the intensity of the conflict by smoothing over differences or interjecting humor is an effective strategy.
+Cost account  ," A control point of one or more work packages used to plan, schedule, and control the project. The sum of all the project cost accounts represents the total cost of the project. "
+Cost performance index (CPI) ,  The ratio of work performed to actual costs (EV/AC).
+Cost-plus contract ,"  A contract in which the contractor is reimbursed for all direct allowable costs (materials, labor, travel) plus an additional fee to cover overhead and profit. "
+Cost variance (CV) ,  The difference between EV and AC (CV=EV-AC). Tells if the work accomplished cost more or less than was planned at any point over the life of the project. 
+Crash cost  ,  The direct cost of completing an activity in its crash time. 
+Crash point ,  The most a project activity time can realistically be compressed with the resources available to the organization. 
+Crashing ,Shortening an activity or project.
+Crash time ,  The shortest time an activity can be completed (assuming a reasonable level of resources).
+Critical path ,  The longest activity path (s) through the network. The critical path can be distinguished by identifying the collection of activities that all have the same minimum slack.
+Critical path method (CPM) ,"  A scheduling method based on the estimates of time required to complete activities on the critical path. The method computes early, late, and slack times for each activity in the network. It establishes a planned project duration, if one is not imposed on the project. "
+Culture  ,"  The totality of socially transmitted behavior patterns, beliefs, institutions, and all other products of human work and thought characteristic of a community or country."
+Culture shock ,  A natural psychological disorientation that most people suffer when they move to a culture different from their own. 
+Daily scrum meeting ,  A short status meeting held daily by each team during which the team members synchronize their work and progress as well as report any impediments for removal by the Scrum master. 
+Dedicated project team ,  An organizational structure in which all of the resources needed to accomplish a project are assigned full time to the project.
+Defining stage ,  Specifications of the project are defined project objectives are established teams are formed major responsibilities are assigned.
+Deliverable  , A major product or result that must be finished to complete the project.
+Delphi Technique,"A group method to predict future events e.g., time, cost."
+Direct costs  ," Costs that are clearly charged to a specific work package, usually labor, materials, or equipment."
+Dummy activity ,  An activity that does not consume time it is represented on the AOA network as a dashed line. A dummy activity is used to ensure a unique identification number for parallel activities and used to maintain dependencies among activities on the project network.
+Duration (DUR),"   The time needed to complete an activity, a path, or a project."
+Dysfunctional conflict ,  Disagreement that does not improve project performance.
+EAC  , Estimated cost at completion.
+Early finish (EF) ,  The earliest an activity can finish if all its preceding activities are finished by their early finish times (EF= ES + DUR).
+Early start (ES)  , The earliest an activity can start. It is the largest early finish of all its immediate predecessors (ES = EF ? DUR).
+Earned value (EV) ,  The physical work accomplished plus the authorized budget for this work. Previously this was called the budgeted cost of work performed (BCWP).
+Eliminate the conflict ,  Sometimes the conflict has escalated to the point that it is no longer tolerable. In this case the manager removes the members involved from the project. 
+Emotional intelligence (EQ) ,"  The ability or skill to perceive, assess, and manage the emotions of one?s self and others."
+Enhance ,  Enhance is the opposite of mitigation in that action is taken to increase the probability and / or the positive impact of an opportunity.
+Escalation ,  A control mechanism for resolving problems in which people at the lowest appropriate level attempt to resolve a problem within a set time limit or the problem is ?escalated? to the next level of management.
+Estimated cost at completion (EAC)  ," The sum of actual costs to date plus revised estimated costs for the work remaining in the WBS. The text uses EACre to represent revisions made by experts and practitioners associated with the project. A second method is used in large projects where the original budget is less reliable. This method uses the actual costs to date plus an efficiency index (CPI = EV/AC) applied to the remaining project work. When the estimate for completion uses the CPI as the basis for forecasting cost at completion, we use the acronym EACf , where EACf = estimated costs at completion. Includes costs to date plus revised estimated costs for the work remaining (Uses formula to compute EAC)."
+Estimate to complete (ETC) ,"  The expected cost needed to complete all the remaining work for a schedule activity, work breakdown structure component, or the project."
+ETCf  ,  Estimated cost to complete (uses formula to compute estimates)
+ETCre  , Estimated cost to complete (uses expert estimates) 
+EV  , Earned value for a task is simply the percent complete times its original budget.
+Event    ,A point in time when an activity (s) is started or completed. It does not consume time.
+Execute  ," Directing, managing, performing, and accomplishing the project work, providing the deliverables, and providing work performance information."
+Executing stage ,"  A major portion of project work takes place, both physical and mental."
+Exploit  ,This tactic seeks to eliminate the uncertainty associated with an opportunity to ensure that it definitely happens.
+Failed project,"   Failed projects are usually easy to identify and easy for a review group to close down. However, every effort should be made to communicate the technical (or other) reasons for termination of the project."
+Failure mode and effects analysis (FMEA) ,"  Each potential risk is assessed in terms of severity of impact, probability of the event occurring, and ease of detection."
+Fast tracking  ,  Accelerating project completion typically by rearranging the network schedule and using start-to-start lags.
+Feature  , A piece of a product that delivers some useful functionality to a customer.
+Finish-to-finish (FF),   The logical relationship where completion of work of the successor activity cannot finish until the completion of work of the predecessor activity.
+Finish-to-start (FS), The logical relationship where initiation of work of the successor activity depends upon the completion of work of the predecessor activity. 
+Firm-fixed-price (FPP) contract  ,"  A type of fixed price contract where the buyer pays the seller a set amount (as defined by the contract), regardless of the seller?s costs."
+Fixed-price or ?lump sum? contract ,"  A contract in which the contractor agrees to perform all the work specified in the contract at a predetermined, fixed price."
+Float ,  Also called slack.
+Forecasted estimated cost to complete (ETCf) , Estimated total cost of a project based on CPI. Uses formula to compute estimates.
+Forming ,  During the initial stage the members get acquainted with each other and understand the scope of the project. They begin to establish ground rules by trying to find out what behaviors are acceptable with respect to both the project and interpersonal relations.
+Forward pass , The method for determining the early start and finish times for each activity in the project network.
+Free slack,   The maximum amount of time an activity can be delayed from its early start (ES) without affecting the early start (ES) of any activity immediately following it.
+Function points ,"  Points derived from past software projects to estimate project time and cost, given specific features of the project."
+Functional conflict ,  Disagreement that contributes to the objectives of the project.
+Functional manager,"   A manager responsible for activities in a specialized department or function (e.g., engineering, marketing, finance)."
+Functional organization,"   A hierarchical organizational structure in which departments represent individual disciplines such as engineering, marketing, purchasing."
+Gantt chart ,"  A graphic display of schedule-related information. In the typical bar chart, schedule activities or work breakdown structure components are listed down the left side of the chart, dates are shown across the top, and activity durations are shown as date-placed horizontal bars."
+Going native,"   Adopting the customs, values, and prerogatives of a foreign culture."
+Golden rule,    Do unto others as you would wish them to do unto you.
+Groupthink ,  A tendency of members in highly cohesive groups to lose their critical evaluative capabilities.
+Hammock activity,"   A special purpose, aggregate activity that identifies the use of fixed resources or costs over a segment of the project e.g., a consultant. Derives its duration from the time span between other activities."
+Heuristic ,"  A rule of thumb used to make decisions. Frequently found in scheduling projects. For example, scheduling critical activities first, then schedule activities with the shortest duration."
+Implementation gap,   The lack of consensus between the goals set by top management and those independently set by lower levels of management. This lack of consensus leads to confusion and poor allocation of organization resources.
+"Incremental, iterative development (IID) ",  A cyclical development process in which a project gradually evolves over time.
+Indirect costs ,  Costs that cannot be traced to a particular project or work package.
+Infrastructure,"   Basic services (i.e. communication, transportation, power) needed to support project completion."
+In-process project audit ,  Project audits early in projects that allow for corrective changes if they are needed on the audited project or others in progress.
+Insensitive network  , A network in which the critical path is likely to remain stable during the life of the project.
+Inspiration-related currencies ,"  Influence based on inspiration (opportunity to do good, be the best, etc.)."
+International project ,  A project that includes tasks that will be completed in different countries.
+ISO 9000 ,   A set of standards governing the requirements for documentation of a quality program.
+Joint evaluation,   A process in which different parties involved in a project evaluate how well they work together.
+Lag  , The amount of time between the end of one activity and the start of another. A duration assigned to the activity dependency.  The minimum amount of time a dependent activity must be delayed to begin or end.
+Lag relationship," The relationship between the start and/ or finish of a project activity and the start and/ or finish of another activity. The most common lag relationships are (1) finish-to-start, (2) finish-to-finish, (3) start-to-start, and (4) start-to-finish."
+Late finish (LF),   The latest an activity can finish and not delay a following activity (LF = LS + DUR).
+Late start (LS) ,  The latest an activity can start and not delay a following activity. It is the largest late finish (LF) of all activities immediately preceding it (LS = LF ? DUR).
+Law of reciprocity,   People are obligated to grant a favor comparable to the one they received.
+Leading by example,   Exhibiting the behaviors you want to see in others.
+Learning curves ,  A mathematical curve used to predict a pattern of time reduction as a task is performed over and over.
+Lessons learned,"  The learning gained from the process of performing the project. Lessons learned may be identified at any point. Also considered a project record, to be included in the lessons learned knowledge base."
+Leveling,"   Techniques used to examine a project for an unbalanced use of resources, and for resolving resource over-allocations. "
+Management by wandering around (MBWA) ,  A management style in which managers spend the majority of their time outside their offices interacting with key people.
+Management reserve  ," A percentage of the total project budget reserved for contingencies. The fund exists to cover unforeseen, new problems, not unnecessary overruns. The reserve is designed to reduce the risk of project delays. Management reserves are typically controlled by the project owner or project manager."
+Matrix ,  Any organizational structure in which the project manager shares responsibility with the functional managers for assigning priorities and for directing the work of individuals assigned to the project.
+Maturity model ,  A model used to assess project management practices against others in the same industry and to guide and continuously strive to improve the management of projects. Most maturity models recognize levels of maturity so organizations can gauge their relative maturity against others in their industry.
+Mediate the conflict ," The manager intervenes and tries to negotiate a resolution by using reasoning and persuasion, suggesting alternatives and the like."
+Mentor ,   Typically a more experienced manager who acts as a personal coach and champions a person?s ambitions.
+Merge activity  , An activity that has more than one activity immediately preceding it.
+Met expectations model ,  Customer satisfaction is a function of the extent to which perceived performance exceeds expectations. 
+Milestone  ,"  An event that represents significant, identifiable accomplishment toward the project?s completion."
+Mitigating risk  , Action taken to either reduce the likelihood that a risk will occur and / or the impact the risk will have on the project.
+Monitor  ," Collect project performance data with respect to a plan, produce performance measures, and report and disseminate performance information. "
+Monte Carlo simulation ,"  A method of simulating project activity durations using probabilities. The method identifies the percentage of times, activities, and paths that are critical over thousands of simulations. "
+Negative reinforcement ,  A motivational technique in which negative stimuli are removed once desired behavior is exhibited.
+Net present value (NPV),"   A minimum desired rate of return discount (e.g., 15 percent) is used to compute present value of all future cash inflows and outflows."
+Network  ,"A logic diagram arranged in a prescribed format (e.g., AOA or AON) consisting of activities, sequences, interrelationships, and dependencies."
+Network organization ,  An alliance of several organizations created for the purpose of creating products and services for customers.
+Network sensitivity,   The likelihood that the critical path will change on a project.
+Node , One of the defining points of a schedule network
+ a junction point joined to some or all of the other dependency lines.,
+Nominal group technique (NGT)  , A structured problem solving process in which members privately rank-order preferred solutions.
+Normal closure,   The most common circumstances for project closure is simply a completed project.
+Norming,   In the third stage close relationships develop and the group demonstrates cohesiveness. Feelings of camaraderie and shared responsibility for the project are heightened. 
+Objective,"  An end you seek to create or acquire. Should be specific, measurable, realistic, assignable, and include a time frame for accomplishment."
+Opportunity,   It is an event that can have a positive impact on project objectives.
+Organization breakdown structure (OBS),    A structure used to assign responsibility for work packages.
+Organizational culture,"  A system of shared norms, beliefs, values, and assumptions held by an organization?s members."
+Organizational currencies ,  A set of currencies used as a medium of exchange within organizations to influence behavior.
+Organizational politics ,"  Actions by individuals or groups of individuals to acquire, develop, and use power and other resources to obtain preferred outcomes when there is uncertainty or disagreement over choices."
+Outsourcing  , Contracting for the use of external sources (skills) to assist in implementing a project.
+Overhead costs ,"  Typically organization costs that are not directly linked to a specific project. These costs cover general expenses such as upper management, legal, market promotion, and accounting. Overhead costs are usually charged per unit of time or as a percentage of labor or material costs."
+Oversight ,"  A set of principles and processes to guide and improve the management of projects. The intent is to ensure projects meet the needs of the organization through standards, procedures, accountability, efficient allocation of resources, and continuous improvement in the management of projects."
+Oysters  , These involve technological breakthroughs with high commercial payoffs.
+Padding estimates ,  Adding a safety factor to a time or cost estimate to ensure the estimate is met when the project is executed.
+Parallel activity ,  One or more activities that can be carried on concurrently or simultaneously.
+Partnering charter  ," A formal document that states common goals as well as cooperative procedures used to achieve these goals, which is signed by all parties working on a project."
+Path ,"  A sequence of connected, dependent activities."
+Payback method ,  The time it takes to payback the project investment (investment/net annual savings). The method does not consider the time value of money or the life of the investment.
+Pearls ,  These represent revolutionary commercial advances using proven technical advances.
+Performance review,"   In general, all review methods of individual performance center on the technical and social skills brought to the project and team. These reviews stress personal improvement and are frequently used for salary and promotion decisions."
+Performing ,  The team operating structure at this point is fully functional and accepted. Group energy has moved from getting to know each other and how the group will work together to accomplishing the project goals.
+Perpetual,"   Some projects never seem to end. The major characteristic of this kind of project is constant ?add-ons,? suggesting a poorly conceived project scope."
+Personal-related currencies ,  Influence based on enhancing another person?s self esteem.
+Phase estimating ,  This estimating method begins with a macro estimate for the project and then refines estimates for phases of the project as it is implemented.
+Phase gating ," A structured process to review, evaluate, and document outcomes at each project phase and to provide management with information to guide resource deployment toward strategic goals."
+Phase project delivery ,  Delivering useful parts of a project in phases instead of when the project is entirely completed.
+Planned value (PV) ,  The planned time-phased baseline of the value of the work scheduled. Previously this was called budgeted cost of work scheduled (BCWS).
+Planning stage ,"  The level of effort increases, and plans are developed to determine what the project will entail, when it will be scheduled, whom it will benefit, what quality level should be maintained, and what budget will be."
+Plan of record ,"  The current official plan for the project in terms of scope, budget, and schedule."
+Portfolio project management  , Centralized selection and management of a portfolio of projects to ensure that allocation of resources is directed and balanced toward the strategic focus of the organization.
+Position-related currencies ,  Influence based on the ability to enhance someone else?s position within an organization.
+Positive synergy,   A characteristic of high performance teams in which group performance is greater than the sum of individual contributions.
+Precedence diagram method ,"  A method used to construct a project network that uses nodes (e.g., a rectangle) to represent activities and connecting arrows to indicate dependencies."
+Premature closure ,"  For a few projects, the project may be completed early with some parts of the project eliminated."
+Principled negotiation ,  A process of negotiation that aims to achieve win/win results.
+Priority matrix  ," A matrix that is set up before the project begins that establishes which criterion among cost, time, and scope will be enhanced, constrained, or accepted."
+Priority system ,  The process used to select projects. The system uses selected criteria for evaluating and selecting projects that are strongly linked to higher level strategies and objectives.
+Priority team ,"  The group (sometimes the project office) responsible for selecting, overseeing, and updating project priority selection criteria."
+Proactive ,  Working within your sphere of influence to accomplish something.
+Process breakdown structure (PBS) ,  A phase oriented grouping of project activities that defines the total scope of the project. Each descending level represents an increasingly detailed description of project work.
+Product backlog ,  A prioritized list of project requirements with estimated time to turn them into complete product functionality.
+Product owner ,  The person responsible for managing the product backlog in Scrum so as to maximize the value of the project. The product owner represents all stakeholders.
+Program ,  A group of related projects managed in a coordinated way to obtain benefits and control not available from managing them individually. Programs may include elements of related work outside of the scope of the discrete projects in the program.
+Project  ," A temporary endeavor undertaken to create a unique product, service, or result."
+Project audit report ,"  A report that includes classification of the project, analysis of information gathered, recommendations, lessons learned, and an appendix of backup information."
+Project charter ,  A document that authorizes the project manager to initiate and lead a project.
+Project closure  ," All of the activities of shutting down a project. The major activities are evaluation of project goals and performance, developing lessons learned, releasing resources, and preparing a final report."
+Project cost duration graph ," A graph that plots project cost against time it includes direct, indirect, and total cost for a project over a relevant range of time"
+Project evaluation ,"  The process of assessing, verifying, and documenting project results."
+Project facilitator ,"  A guide who leads the project team through an analysis of project activities that went well, what needs improvement, and development of a follow up action plan with goals and accountability."
+Project interfaces  , The intersections between a project and other groups of people both within and outside the organization.
+Project office (PO),"   The project office (PO) is the unit responsible for the continued support of consistent applications of selection criteria, standards, and processes training of and general assistance to project management and continued improvement and use of best practices."
+Project oversight  , It can be defined as a set of principles and processes to guide and improve the management of projects.
+Projectitis  , A social phenomenon in which project members exhibit inappropriately intense loyalty to the project.
+Projectized organization ,  A multi-project organization in which project managers have full authority to assign priorities and direct the work of persons assigned to their project.
+Project kick off meeting  , Typically the first meeting of the project team.
+Project life cycle,"   The stages found in all projects, definition, planning, execution, and delivery."
+Project management ,"  The application of knowledge, skills, tools, and techniques to project activities to meet the project requirements."
+Project Management Professional (PMP) ,"  An individual who has met specific education and experience requirements set forth by the Project Management Institute, has agreed to adhere to a code of professional conduct, and has passed an examination designed to objectively assess and measure project management knowledge. In addition, a PMP must satisfy continuing certification requirements or lose the certification."
+Project Office (PO) ,  A centralized unit within an organization or department that oversees and improves the management of projects.
+Project Manager ,  The individual responsible for managing a project.
+Project organization,   An organizational structure in which core work is accomplished by project teams.
+Project partnering ,"  A non binding method of transforming contractual relationships into a cohesive, cooperative project team with a single set of goals and established procedures for resolving disputes in a timely manner."
+Project portfolio  ," Group of projects that have been selected for implementation balanced by project type, risk, and ranking by selected criteria."
+Project screening matrix,  A matrix used to assess and compare the relative value of projects being considered for implementation.
+Project sponsor ,  Typically a high ranking manager who champions and supports a project.
+Project vision ,  An image of what the project will accomplish.
+Ratio (parametric) methods ,   Uses the ratio of past actual costs for similar work to estimate the cost for a potential project. This macro method of forecasting cost does not provide a sound basis for project cost control since it does not recognize differences among projects.
+Relationship related currencies  , Influence based on friendship.
+Requested change  ,A formally documented change request that is submitted for approval to the integrated change control process.
+Reserve  ," A provision in the project management plan to mitigate cost and / or schedule risk. Often used with a modifier (e.g., management reserve, contingency reserve) to provide further detail on what types of risk are meant to be mitigated."
+Resource  ,"  Any person, groups, skill, equipment or material used to accomplish a task, work package, or activity."
+Resource constrained project ,  A project that assumes resources are limited (fixed) and therefore time is variable.
+Resource profile  ," A chart showing the usage of a resource in a project over time. It is common to try to reduce the peak of the resource usage by leveling or smoothing, thereby improving the utilization of the resource."
+Resource smoothing ,"  If resources are adequate but the demand varies widely over the life of the project, it may be desirable to even out resource demand by delaying noncritical activities (using slack) to lower peak demand and, thus, increase resource utilization. This process is called resource smoothing."
+Responsibility matrix,   A matrix whose intersection point shows the relationship between an activity (work package) and the person / group responsible for its completion.
+Retrospective  ," A methodology that analyzes a past project event to determine what worked and what didn?t, develops lessons learned, and creates an action plan that ensures lessons learned are used to improve management of future projects."
+Revised estimated cost to complete (ETCre)  ,  Estimated total cost based on revised estimates made by experts and actual costs to date.
+Risk  , The chance that an undesirable project event will occur and the consequences of all its possible outcomes.
+Risk breakdown structure (RBS) ,  A hierarchical depiction of the identified project risks arranged by risk category and subcategory that identifies the various areas and causes of potential risks.
+Risk control ,"  It involves executing the risk response strategy, monitoring triggering events, initiating contingency plans, and watching for new risks. "
+Risk profile ,  A list of questions that addresses traditional areas of uncertainty on a project.
+Risk register,"   It details all identified risks, including descriptions, category, and probability of occurring, impact, responses, contingency plans, owners, and current status."
+Risk severity matrix ,  A tool used to assess the impact of risks on a project.
+Sacred cow ,  A project that is a favorite of a powerful management figure who is usually the champion for the project.
+Scaling ,"  Adapting Agile PM to large, multi team projects."
+Scenario planning,"   A structured process of thinking about future possible environments that would have potential high impact to disrupt the way you do business, and then developing potential strategies to compete in  these altered environments."
+Schedule baseline,   A specific version of the schedule model used to compare actual results to the plan to determine if preventive or corrective action is needed to meet the project objectives.
+Schedule performance index (SPI) ,  The ratio of work performed to work scheduled (EV/PV).
+Schedule variance (SV),  The difference between the planned dollar value of the work actually completed and the value of the work scheduled to be completed at a given point in time (SV = EV ? PV). Schedule variance contains no critical path information.
+Scope creep ,  The tendency for the scope of a project to expand once it has started.
+Scope statement ,"  A definition of the end result or mission of a project. Scope statements typically include project objectives, deliverables, milestones, specifications, and limits and exclusions."
+Scrum ,"  An incremental, iterative development approach to managing projects with a well-defined set of roles and processes."
+Scrum master , The person responsible for the Scrum process and its correct application.
+Self organizing team ,  A semi-autonomous team that manages itself.
+Sensitivity of a network  , The likelihood that the critical path(s) will change once the project begins to be implemented.
+Share ,  This strategy involves allocating some or all of the ownership of an opportunity to another party who is best able to capture the opportunity for the benefit of the project.
+Sharing risk ,  Allocating proportions of risk to different parties.
+Slack (SL) ,  Time an activity can be delayed before it becomes critical.
+Social network building,   The process of identifying and building cooperative relationships with key people.
+Sociotechnical perspective,   A focus on the interaction between tools/methods and people.
+Splitting,"   A scheduling technique in which work is interrupted on one activity and the resource is assigned to another activity for a period of time, then reassigned to work on the original activity."
+Sprint ,  A fixed period of time during which a Scrum teams works to turn the product backlog it has selected into an increment of product functionality.
+Sprint backlog ,  A list of tasks that defines a Scrum team?s work for a sprint. Each task identifies those responsible for doing the work and the estimated amount of work remaining on the task on any given day during the sprint.
+Sprint planning meeting,"   A scrum meeting divided into two segments. During the first segment the product owner presents the highest priority product backlog to the team. The team and product owner collaborate to determine how much of the product backlog it can turn into functionality during the upcoming sprint. During the second segment, the team plans how it will meet his commitment by detailing its work as a plan in the sprint backlog."
+Sprint retrospective meeting ,  A Scrum meeting in which the team discusses the just concluded sprint and determines what could be changed that might make the next sprint more enjoyable and productive.
+Sprint review meeting,   A Scrum meeting in which the team demonstrates to the product owner and any other interested parties what it was able to accomplish during the sprint.
+Stakeholders ,"  Individuals and organizations that are actively involved in the project, or whose interests may be positively or negatively affected as a result of project execution or completion. They may also exert influence over the project and its results."
+Start to finish (SF),   The logical relationship where completion of the successor schedule activity is dependent upon the initiation of the predecessor schedule activity.
+Start to start (SS)   ,The logical relationship where initiation of the work of the successor schedule activity depends upon the initiation of the work of the predecessor schedule activity.
+Storming , This stage is marked by a high degree of internal conflict. Members accept that they are part of a project group but resist the constraints that the project and group put on their individuality. There is conflict over who will control the group and how decisions will be made.
+Strong matrix,   A matrix structure in which the project manager has primary control over project activities and functional managers support project work.
+Systems thinking ,  A holistic approach to viewing problems that emphasizes understanding the interactions among different problem factors.
+Task related currencies ," Influence based, helping someone else do their work."
+Team building,  A process designed to improve the performance of a team.
+Team evaluation,"   Evaluating the performance of the project team using a minimum core of conditions in place before the project began. Evaluation practices should emphasize the team as a whole, while minimizing individual performance."
+Team rituals , Ceremonial actions that reinforce team identity and values.
+Template method,"  Use of a prepared form to develop project networks, costs, and time estimates."
+Threat  ," A condition or situation unfavorable to the project, a negative set of circumstances, a negative set of events, a risk that will have a negative impact on a project objective if it occurs, or a possibility for negative changes. Contrast with opportunity."
+360 degree feedback ,"  A multirater appraisal system based on performance information that is gathered from multiple sources (superiors, peers, subordinates, customers)."
+Time and cost databases,   Collection of actual versus estimated times and costs of work packages over many projects that are used for estimating new project tasks and their expected possible error.
+Time buffer  ," A contingency amount of time for an activity to cover uncertainty, for example, availability of a key resource or merge event."
+Time constrained project ,"  A project that assumes time is fixed and, if resources are needed, they will be added."
+Time phased baseline,   A cost baseline that is derived from the WBS and project schedule. The budgeted costs are distributed to mirror the project schedule.
+Time phased budgets ,"  Planned costs that are broken down by distinct time periods (e.g., $5,000 per week) for a work package, as opposed to a budget for a whole job/project (6 months for a total of $130,000). Time phasing allows better cost control by measuring the actual rate of expenditure versus the planned expenditure rate over small pieces of the project."
+Total slack (TS)  , The amount of time an activity can be delayed and not affect the project duration (TS = LS ? ES or LF ? EF).
+Tracking Gantt ,  A gantt chart that compares planned versus actual schedule information.
+Transferring risk ,  Shifting responsibility for a risk to another party.
+Triggers  , They tell you that an event is quickly approaching and detailed strategic planning is needed.
+Triple constraint ," The competing demands of time, cost, and scope. These constraints frequently represent tradeoff decisions to be dealt with by the project manager and / or sponsor."
+Top down estimates ,  Rough estimates that use surrogates to estimate project time and cost (also called macro estimates).
+Validation ,"  The assurance that a product, service, or system meets the needs of the customer and other identified stakeholders. It often involves acceptance and suitability with external customers. Contrast with verification."
+Variance at completion (VAC) ,  Indicates expected actual cost over or under run at completion (VAC = BAC ? EAC). 
+Verification ,"  The evaluation of whether or not a product, service, or system complies with a regulation, requirement, specification, or imposed condition. It is often an internal process. Contrast with validation."
+Virtual project team ,  Spatially separated project team whose members are unable to communicate face to face. Communication is usually by electronic means.
+Weak matrix , A matrix structure in which functional managers have primary control over project activities and the project manager coordinates project work.
+White elephants , These are projects that at one time showed promise but are no longer viable.
+Work authorization,"   A permission and direction, typically written, to begin work on a specific schedule activity or work package or control account. It is a method for sanctioning project work to ensure that the work is done by the identified organization, at the right time, and in the proper sequence."
+Work breakdown structure (WBS) , A hierarchical method that successfully subdivides the work of the project into smaller detail.
+Work package ,"  A task at the lowest level of the WBS. Responsibility for the package should be assigned to one person and, if possible, limited to 80 hours of work"

@@ -1,0 +1,74 @@
+A,"In economic equations, Annuity, with end of period cash flows."
+A or A',"In economic equations, a total amount of money that flows continuously and uniformly during each period for a specified number of periods."
+Accelerated Cost Recovery System (ACRS),"A 1981 US tax law providing a system of accelerated straight-line depreciation in four tax classes with 3-, 5-, 10- and 15-year life. 7- and 20-year property lives were added in 1986. Alternatively, longer depreciation lives may be used."
+Accounting,"The analysis, classification and interpretation of financial data."
+Accounting cycle,"The length of the period between company financial transaction summaries, generally monthly, quarterly or annually."
+Accounting life,The lifetime of an asset as determined by accounting methods.
+Accrual Accounting,"A method of accounting often used in business, where expenses and revenues are entered when earned or billed, not when payment is received or disbursed."
+ACRS,"Accelerated Cost Recovery System: A 1981 US tax law providing a system of accelerated straight-line depreciation in four tax classes with 3-, 5-, 10- and 15-year life. 7- and 20-year property lives were added in 1986. Alternatively, longer depreciation lives may be used."
+ADR,Asset Depreciation Range: A set of ranges of useful depreciation lifetimes for various types of assets. These were established by the US IRS.
+Ad Valorem Taxes,"From the Latin meaning literally according to the worth. Also known as property taxes and other taxes, these taxes usually recur annually and receive the same mathematical treatment in an economic study as expenses like maintenance and repairs."
+AEC,"Annual Equivalent Costs: AEC is the annual equivalent of PWAC: AEC = PWAC (A/P,i,N). An AEC study is similar to an Annual Cost study but with fewer constraints."
+Amortization,"Capital asset case: The recovery of the capital cost of an asset by means of periodic charges to operations. Depreciation is an example. Dictionary: The gradual extinction of a debt by periodic repayments to a fund or creditor.  Engineering economics case: The repayment of capital for a project plus the return on capital while the capital is being used by the project, expressed as a uniform annual amount."
+Annual Costs (AC),A type of comparative cost study where all relevant cash flows are converted into annual costs.
+Annual Report,A financial report made at the end of the fiscal year which gives the past year's financial transactions and the results.
+Annuity (A),A series of equal cash flows occurring each period over a range of periods.
+Asset,"Items owned which may be convertible into cash including cash, accounts receivable, inventory, promissory notes, securities, machinery, tax credits, and real estate. Opposite of liability."
+Asset Depreciation Range (ADR),A set of ranges of useful depreciation lifetimes for various types of assets. These were established by the US IRS.
+Annual Equivalent Costs (AEC),"AEC is the annual equivalent of PWAC: AEC = PWAC (A/P,i,N). An AEC study is similar to an Annual Cost study but with fewer constraints."
+Audit,A third-pary professional review of an organization's financial statements as to accuracy and honesty.
+Capital,1.     One of the cash flows as part of an economic study or a comparative cost study.    2. The monetary resources to establish and maintain a project.     3.  Wealth that may be used to economic advantage.
+Capital Cost Allowance (CCA),"A method of depreciation for income tax purposes. Different types of goods are assigned various tax classes, each which has an assigned depreciation (or CCA) rate and life. Compare with CLADR and ADR."
+Capital Recovery,"The process of repaying the net investment that has been put into a project. Includes net salvage, interest and principal repayment."
+Cash Flow,The real dollars passing into and out of the treasury with regard to a financial venture. Note that depreciation expense is not a cash flow as it is an internal accounting transfer and isnot paid to anybody.
+CCA,Capital Cost Allowance.
+CLADR,Class Life Asset Depreciation Range.
+Class Life Asset Depreciation Range (CLADR),A set of ranges of useful depreciation lifetimes for various types of assets as established by the US IRS.
+Comparative Cost Study,"A type of economic study and a tool that indicates relative costs among alternatives. In a Comparative Cost Study, revenues are constrained to be equal for each plan under consideration."
+Cost of Debt,"An organization's cost of debt used in cost studies. This represents interest paid on new bonds and similar instruments. Therefore, a marginal rate is used rather than a composite rate."
+Cost of Equity,"For organizations issuing stock, an estimate of the rate of return required by the shareholders for investment in common stock. This cost is based on many aspects within the organization and in the stock market."
+DBD,"Declining Balance Depreciation, see."
+Declining Balance Depreciation (DBD),The amount transferred to depreciation is a fixed ratio of the un-depreciated balance for the item.
+Depreciation Accounting,"An accounting system to systematically and rationally allocate the net cost or other basic value of tangible capital assets over the anticipated useful life of the assets to an expense account. When used for tax calculations, the term Capital Cost Allowance (CCA) is used in many jurisdictions instead of depreciation."
+Depreciation Expense,Depreciation expense describes the use of depreciation as a tax shield.
+Discounted Payback Period,A criteria for investment decisions; the number of periods of time required for the present worth of an investment's cost savings and revenues to equal the present worth of the investment excluding interest. See also payback period.
+Discount Rate,Interest rate.
+Discrete Continuous Cash Flow,"A one-time cash flow happening evenly throughout a single period. See also Discrete Periodic Cash Flow, Discrete Single Cash Flow, Periodic Continuous Cash Flow, and Periodic Gradient Cash Flow."
+Discrete Periodic Cash Flow,"A cash flow happening all at once at the end of each of a range of periods. Examples include interest on an annuity. See also Discrete Single Cash Flow, Discrete Continuous Cash Flow, Periodic Continuous Cash Flow, and Periodic Gradient Cash Flow."
+Discrete Single Cash Flow,"A one-time cash flow happening all at once at the end of a period. Often just referred to as a cash flow. See also Discrete Periodic Cash Flow, Discrete Continuous Cash Flow, Periodic Continuous Cash Flow, and Periodic Gradient Cash Flow."
+Debt Ratio,"In economic studies for organizations issuing stock, the ratio of debt to equity financing used for the project under analysis. An organization's current debt ratio value is generally used in studies."
+Economic Study,"Unlike a comparative cost study, the economic study includes a revenue component."
+F,"In economic equations, F equals a Future lump sum of money."
+F or F',"In economic equations, a total amount of money that flows continuously and uniformly during a future period."
+i,"In economic equations, effective annual interest rate for discrete compounding."
+Income Tax,Taxes payable on taxable income derived from various cash flows. See also Minimum Acceptable Revenue.
+Income Tax Burden,The amount of income tax generated by a project under conditions of capital cash flow generated revenue equaling MAR. This results from studies where an assumed revenue generates income taxes based on an organization's minimum acceptable revenue (MAR).
+Internal Rate of Return,"The discount rate that results in an NPV equal to zero. Caution should be used as IROR calculations can result in multiple roots, giving more than one IROR value (only one of which is correct). Generally for a project to proceed, the IROR must be equal or exceed the organization's MARR in order to benefit the organization."
+Internal Revenue Service (IRS),The US government body responsible for administering tax laws and collecting taxes.
+IROR (IRR),"Internal Rate of Return, which see."
+IRS,Internal Revenue Service (US).
+j,"In economic equations, effective annual interest rate for continuous compounding."
+MACRS,Modified Accelerated Cost Recovery System.
+MAR,Minimum Acceptable Revenue or Rate.
+MARR,"Minimum Acceptable Rate of Return (on capital). The smallest amount of revenue considered acceptable for an organization to undertake a project. Typically, MARR is equal to the cost of capital plus a return. Sometimes referred to as the hurdle rate."
+Minimum Acceptable Revenue (MAR),"An assumed project-related revenue that just covers off income taxes, plus exactly realizes an organization's minimum acceptable rate of return on capital or MARR. Such a project can be said to carry its own costs and not be a burden on the organization."
+Modified Accelerated Cost Recovery System,An IRS prescribed straight-line depreciation approach.
+N,"In economic equations, the Number of periods."
+Net Present Value,"In an economic study, the present worth of all cash flows including revenue over the study life. When NPV equals zero, the project is break-even for the organization while a negative NPV denotes a loss and positive NPV a profit."
+Net Salvage,A cash flow in a comparative or normal economic study relating to the sale of retired property including removal cost.
+NPV,"Net Present Value, which see."
+P,"In economic equations, a Present lump sum of money."
+P or P',"In economic equations, a total amount of money that flows continuously and uniformly during the present period."
+Payback Period,A criteria for investment decisions; the number of periods of time required for an investment's cost savings and revenues to equal the amount of the investment with no interest. See also discounted payback period.
+Periodic Continuous Cash Flow,"A recurring cash flow happening evenly throughout each period, over a range of periods. For example, the depletion value in an operating mine decreases on the basis of a continuous cash flow as ore is removed daily. See also Discrete Periodic Cash Flow, Discrete Single Cash Flow, Discrete Continuous Cash Flow and Periodic Gradient Cash Flow."
+Periodic Gradient Cash Flow,"A recurring cash flow happening each period. The amount of the cash flow increases as a gradient series: End Year 1: $x, end year 2: $2x, end year 3: $3x and so on. Accumulated depreciation is an example. See also Discrete Periodic Cash Flow, Discrete Single Cash Flow, Discrete Continuous Cash Flow and Periodic Continuous Cash Flow."
+Present Worth of Annual Costs (PWAC),"An economic evaluator meaningful only when the rules and assumptions of a cost comparison economic analysis have been strictly adhered to. In addition, the degree of risk should be similar for each alternative. PWAC can also provide a profitability comparison under the same rules, thanks to the MAR component and consideration."
+PWAC,Present Worth of Annual Costs.
+Plant,"In this glossary, Plant refers to units under study. Although really a utilities-type term, its concept is equally applicable regardless of what one is costing, things as diverse as light bulbs, underground zinc mines, levies or railroad lines."
+Removal Cost,A cash flow in a comparative or normal economic study relating to the gross cost of removal of retired property excluding any gross salvage.
+Repeated Plant Assumption,"In a comparative economic study, each study alternative must provide the same service capacity and service life. This goal is achieved by repeating capital, revenue and expense cash flows from all the studies as necessary to terminate all studies at the same future time to provide an equal amount of service. Because monies have a smaller and smaller effect on the economic evaluators as the monies extend farther and farther into the future, some organizations will mandate that the studies will be truncated at some future point in time where the impact of truncation will hopefully be minimal."
+Remaining Capital Balance,"The amount of capital for which the project is responsible to provide a return and repayment, at any given time during the study life. It equals the original amount less accumulated depreciation and tax credits to that point in time."
+Revenue,"An incoming cash flow, part of a standard economic analysis. Note that revenue is excluded from a comparative cost study that assumes identical revenues for each plan."
+Salvage,See Gross Salvage and Net Salvage
+Tax Base,The term used instead of Un-depreciated Asset when capital cost allowance is used instead of depreciation.
+Time Value of Money,"Because of interest, money today is worth more in the future. The inverse is also true."

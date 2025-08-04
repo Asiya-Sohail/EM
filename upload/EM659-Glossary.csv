@@ -1,0 +1,57 @@
+Actual Cycle Time,"The actual time to produce one piece. In OEE, calculated as Operating Time divided by Total Pieces."
+Actual Run Rate,"The actual rate of production, when it is running. In OEE, calculated as Total Pieces divided by Operating Time."
+Adjustment Time,Productive time lost while tweaking equipment. See Setup and Adjustments.
+Andon,Indicator above production line to signal production conditions.
+Availability,One of the three OEE Factors. Takes into account Down Time Loss (events that stop planned production for an appreciable amount of time).
+Best Practice,Methods that are considered ?state of the art? by the most respected in an industry.
+Breakdowns,Lost time due to equipment failure. One of the Six Big Losses.
+Changeover Time,"Lost time due to swapping of equipment, connections or materials. See Setup and Adjustments."
+Cycle Time,The time to produce one piece.
+Cycle Time Analysis,Tool used to better understand issues that affect Performance.
+Design Cycle Time,See Ideal Cycle Time.
+Down Time Loss,Production time lost to unplanned shutdowns.
+Event,"In OEE, a production loss which must be categorized."
+Fully Productive Time,Actual productive time after ALL losses are subtracted.
+Good Pieces,Produced pieces that meet quality standards (without rework).
+Ideal Cycle Time,Theoretical minimum time to produce one piece. The inverse of Ideal Run Rate.
+Ideal Run Rate,Theoretical maximum production rate. The inverse of Ideal Cycle Time.
+Lean Manufacturing,Quality philosophy that strives to minimize consumption of resources that add no value to the finished product.
+Nameplate Capacity,The design capacity of a machine or process.
+Net Operating Time,True productive time before product quality losses are subtracted.
+OEE (Overall Equipment Effectiveness),"Framework for measuring the efficiency and effectiveness of a process, by breaking it down into three constituent components (the OEE Factors)."
+OEE Factors,"The three constituent elements of OEE (Availability, Performance, and Quality)."
+OEE Losses,"The three types of productivity loss associated with the three OEE Factors (Down Time Loss, Speed Loss, and Quality Loss)."
+Operating time,Productive time available after Down Time Losses are subtracted.
+Performance,"One of the three OEE Factors. Takes into account Speed Loss (factors that cause the process to operate at less than the maximum possible speed, when running)."
+Planned Production Time,Total time that equipment is expected to produce.
+Planned Shut Down,Deliberate unproductive time.
+Plant OEE,Consolidated OEE calculation as applied to entire plant.
+Plant Operating Time,The time the factory is open and capable of equipment operation.
+Process,A sequence of activities that starts with some type of input (e.g. raw materials) and ends with some type of output (e.g. a product).
+Production Rejects,Rejects produced during steady-state production. One of the Six Big Losses.
+Quality,One of the three OEE Factors. Takes into account Quality Loss (parts which do not meet quality requirements).
+Quality Loss,Percentage of pieces which do not meet quality requirements.
+Reason Code,An identification number or classification applied to an Event subcategory. Used to tabulate statistics regarding Events.
+Reduced Speed,"Cycle where the process is truly running (as opposed to a Small Stop), but is slower than ?expected?. One of the Six Big Losses."
+Reduced Speed Threshold,"A dividing point between a standard cycle, and one which is considered ?slow? (a Reduced Speed cycle)."
+Reject Pieces,Produced pieces that do not meet quality standards.
+Rework Pieces,"A subset of Reject Pieces, that can be reworked into Good Pieces."
+Root Cause Analysis,"A method of resolving a non-conformance, by tracing back from the end failure to its original (root) cause."
+Run Rate,The production rate when actually producing (running).
+SMEDÿ(Single Minute Exchange of Dies),Program for reducing setup time. Named after the goal of reducing setup times to under ten minutes (representing time with one digit).
+Setup and Adjustments,Time lost configuring equipment. One of the Six Big Losses. See also Adjustment Time and Changeover Time.
+Six Big Losses,"Six categories of productivity losses that are almost universally experienced in manufacturing: Breakdowns, Setup and Adjustments, Small Stops, Reduced Speed, Startup Rejects and Production Rejects."
+Six Sigma,Systematic quality program that strives to limit defects to six standard deviations from the mean. One of the major focuses of Six Sigma is to reduce process variation.
+Small Stop,"A brief pause in production, but not long enough to be tracked as Down Time. One of the Six Big Losses."
+Small Stop Threshold,"A dividing point between a Reduced Speed cycle, and one which is considered a Small Stop."
+Speed Loss,Production time lost to equipment running below maximum rated speed.
+Startup Rejects,Rejects produced while equipment is adjusted for production. One of the Six Big Losses.
+Takt Time,Production rate needed to meet customer demand.
+Theoretical Cycle Time,See Ideal Cycle Time.
+Total Pieces,Total of all produced pieces.
+TPM (Total Productive Maintenance),"Maintenance system covering the life of all equipment: planning, manufacturing, maintenance and improving performance."
+Visual OEE?,Plant floor real-time display of live OEE data for maximum team involvement.
+World Class OEE,90% Availability
+,95% Performance
+,99.9% Quality
+,85% OEE

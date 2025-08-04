@@ -1,0 +1,58 @@
+469,Accounting life,The lifetime of an asset as determined by accounting methods.,EM558,0
+470,Accrual Accounting,"A method of accounting often used in business, where expenses and revenues are entered when earned or billed, not when payment is received or disbursed.",EM558,0
+471,ACRS,"Accelerated Cost Recovery System: A 1981 US tax law providing a system of accelerated straight-line depreciation in four tax classes with 3-, 5-, 10- and 15-year life. 7- and 20-year property lives were added in 1986. Alternatively, longer depreciation lives may be used.",EM558,0
+472,ADR,Asset Depreciation Range: A set of ranges of useful depreciation lifetimes for various types of assets. These were established by the US IRS.,EM558,0
+473,Ad Valorem Taxes,"From the Latin meaning literally according to the worth. Also known as property taxes and other taxes, these taxes usually recur annually and receive the same mathematical treatment in an economic study as expenses like maintenance and repairs.",EM558,0
+474,AEC,"Annual Equivalent Costs: AEC is the annual equivalent of PWAC: AEC = PWAC (A/P,i,N). An AEC study is similar to an Annual Cost study but with fewer constraints.",EM558,0
+475,Amortization,"Capital asset case: The recovery of the capital cost of an asset by means of periodic charges to operations. Depreciation is an example. Dictionary: The gradual extinction of a debt by periodic repayments to a fund or creditor.  Engineering economics case: The repayment of capital for a project plus the return on capital while the capital is being used by the project, expressed as a uniform annual amount.",EM558,0
+476,Annual Costs (AC),A type of comparative cost study where all relevant cash flows are converted into annual costs.,EM558,0
+477,Annuity (A),A series of equal cash flows occurring each period over a range of periods.,EM558,0
+478,Asset,"Items owned which may be convertible into cash including cash, accounts receivable, inventory, promissory notes, securities, machinery, tax credits, and real estate. Opposite of liability.",EM558,0
+479,Asset Depreciation Range (ADR),A set of ranges of useful depreciation lifetimes for various types of assets. These were established by the US IRS.,EM558,0
+480,Annual Equivalent Costs (AEC),"AEC is the annual equivalent of PWAC: AEC = PWAC (A/P,i,N). An AEC study is similar to an Annual Cost study but with fewer constraints.",EM558,0
+481,Capital,1.     One of the cash flows as part of an economic study or a comparative cost study.    2. The monetary resources to establish and maintain a project.     3.  Wealth that may be used to economic advantage.,EM558,0
+482,Capital Cost Allowance (CCA),"A method of depreciation for income tax purposes. Different types of goods are assigned various tax classes, each which has an assigned depreciation (or CCA) rate and life. Compare with CLADR and ADR.",EM558,0
+483,Capital Recovery,"The process of repaying the net investment that has been put into a project. Includes net salvage, interest and principal repayment.",EM558,0
+484,Cash Flow,The real dollars passing into and out of the treasury with regard to a financial venture. Note that depreciation expense is not a cash flow as it is an internal accounting transfer and isnot paid to anybody.,EM558,0
+485,CCA,Capital Cost Allowance.,EM558,0
+486,CLADR,Class Life Asset Depreciation Range.,EM558,0
+487,Class Life Asset Depreciation Range (CLADR),A set of ranges of useful depreciation lifetimes for various types of assets as established by the US IRS.,EM558,0
+488,Comparative Cost Study,"A type of economic study and a tool that indicates relative costs among alternatives. In a Comparative Cost Study, revenues are constrained to be equal for each plan under consideration.",EM558,0
+489,Cost of Equity,"For organizations issuing stock, an estimate of the rate of return required by the shareholders for investment in common stock. This cost is based on many aspects within the organization and in the stock market.",EM558,0
+490,DBD,"Declining Balance Depreciation, see.",EM558,0
+491,Declining Balance Depreciation (DBD),The amount transferred to depreciation is a fixed ratio of the un-depreciated balance for the item.,EM558,0
+492,Depreciation Accounting,"An accounting system to systematically and rationally allocate the net cost or other basic value of tangible capital assets over the anticipated useful life of the assets to an expense account. When used for tax calculations, the term Capital Cost Allowance (CCA) is used in many jurisdictions instead of depreciation.",EM558,0
+493,Depreciation Expense,Depreciation expense describes the use of depreciation as a tax shield.,EM558,0
+494,Discount Rate,Interest rate.,EM558,0
+495,Discrete Continuous Cash Flow,"A one-time cash flow happening evenly throughout a single period. See also Discrete Periodic Cash Flow, Discrete Single Cash Flow, Periodic Continuous Cash Flow, and Periodic Gradient Cash Flow.",EM558,0
+496,Discrete Periodic Cash Flow,"A cash flow happening all at once at the end of each of a range of periods. Examples include interest on an annuity. See also Discrete Single Cash Flow, Discrete Continuous Cash Flow, Periodic Continuous Cash Flow, and Periodic Gradient Cash Flow.",EM558,0
+497,Discrete Single Cash Flow,"A one-time cash flow happening all at once at the end of a period. Often just referred to as a cash flow. See also Discrete Periodic Cash Flow, Discrete Continuous Cash Flow, Periodic Continuous Cash Flow, and Periodic Gradient Cash Flow.",EM558,0
+498,Economic Study,"Unlike a comparative cost study, the economic study includes a revenue component.",EM558,0
+499,F,"In economic equations, F equals a Future lump sum of money.",EM558,0
+500,i,"In economic equations, effective annual interest rate for discrete compounding.",EM558,0
+501,Income Tax,Taxes payable on taxable income derived from various cash flows. See also Minimum Acceptable Revenue.,EM558,0
+502,Internal Revenue Service (IRS),The US government body responsible for administering tax laws and collecting taxes.,EM558,0
+503,IROR (IRR),"Internal Rate of Return, which see.",EM558,0
+504,IRS,Internal Revenue Service (US).,EM558,0
+505,j,"In economic equations, effective annual interest rate for continuous compounding.",EM558,0
+506,MACRS,Modified Accelerated Cost Recovery System.,EM558,0
+507,MAR,Minimum Acceptable Revenue or Rate.,EM558,0
+508,MARR,"Minimum Acceptable Rate of Return (on capital). The smallest amount of revenue considered acceptable for an organization to undertake a project. Typically, MARR is equal to the cost of capital plus a return. Sometimes referred to as the hurdle rate.",EM558,0
+509,Modified Accelerated Cost Recovery System,An IRS prescribed straight-line depreciation approach.,EM558,0
+510,N,"In economic equations, the Number of periods.",EM558,0
+511,Net Present Value,"In an economic study, the present worth of all cash flows including revenue over the study life. When NPV equals zero, the project is break-even for the organization while a negative NPV denotes a loss and positive NPV a profit.",EM558,0
+512,Net Salvage,A cash flow in a comparative or normal economic study relating to the sale of retired property including removal cost.,EM558,0
+513,NPV,"Net Present Value, which see.",EM558,0
+514,P,"In economic equations, a Present lump sum of money.",EM558,0
+515,Periodic Continuous Cash Flow,"A recurring cash flow happening evenly throughout each period, over a range of periods. For example, the depletion value in an operating mine decreases on the basis of a continuous cash flow as ore is removed daily. See also Discrete Periodic Cash Flow, Discrete Single Cash Flow, Discrete Continuous Cash Flow and Periodic Gradient Cash Flow.",EM558,0
+516,Periodic Gradient Cash Flow,"A recurring cash flow happening each period. The amount of the cash flow increases as a gradient series: End Year 1: $x, end year 2: $2x, end year 3: $3x and so on. Accumulated depreciation is an example. See also Discrete Periodic Cash Flow, Discrete Single Cash Flow, Discrete Continuous Cash Flow and Periodic Continuous Cash Flow.",EM558,0
+517,Present Worth of Annual Costs (PWAC),"An economic evaluator meaningful only when the rules and assumptions of a cost comparison economic analysis have been strictly adhered to. In addition, the degree of risk should be similar for each alternative. PWAC can also provide a profitability comparison under the same rules, thanks to the MAR component and consideration.",EM558,0
+518,PWAC,Present Worth of Annual Costs.,EM558,0
+519,Plant,"In this glossary, Plant refers to units under study. Although really a utilities-type term, its concept is equally applicable regardless of what one is costing, things as diverse as light bulbs, underground zinc mines, levies or railroad lines.",EM558,0
+520,Removal Cost,A cash flow in a comparative or normal economic study relating to the gross cost of removal of retired property excluding any gross salvage.,EM558,0
+521,Repeated Plant Assumption,"In a comparative economic study, each study alternative must provide the same service capacity and service life. This goal is achieved by repeating capital, revenue and expense cash flows from all the studies as necessary to terminate all studies at the same future time to provide an equal amount of service. Because monies have a smaller and smaller effect on the economic evaluators as the monies extend farther and farther into the future, some organizations will mandate that the studies will be truncated at some future point in time where the impact of truncation will hopefully be minimal.",EM558,0
+522,Remaining Capital Balance,"The amount of capital for which the project is responsible to provide a return and repayment, at any given time during the study life. It equals the original amount less accumulated depreciation and tax credits to that point in time.",EM558,0
+523,Revenue,"An incoming cash flow, part of a standard economic analysis. Note that revenue is excluded from a comparative cost study that assumes identical revenues for each plan.",EM558,0
+524,Salvage,See Gross Salvage and Net Salvage,EM558,0
+525,Tax Base,The term used instead of Un-depreciated Asset when capital cost allowance is used instead of depreciation.,EM558,0
+526,Time Value of Money,"Because of interest, money today is worth more in the future. The inverse is also true.",EM558,0
