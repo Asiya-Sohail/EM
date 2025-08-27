@@ -3,7 +3,7 @@
 require("connection.php");
 
 	function mysql_prep( $value ) {
-		$connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+		$connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
 		$magic_quotes_active = get_magic_quotes_gpc();
 		$new_enough_php = function_exists( "mysqli_real_escape_string" ); // i.e. PHP >= v4.3.0
 		if( $new_enough_php ) { // PHP v4.3.0 or higher
@@ -19,7 +19,7 @@ require("connection.php");
 	}
 
 	function redirect_to( $location = NULL ) {
-		$connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+		$connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
 		if ($location != NULL) {
 			header("Location: $location");
 			exit;
@@ -27,14 +27,14 @@ require("connection.php");
 	}
 
 	function confirm_query($result_set) {
-		$connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+		$connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
 		if (!$result_set) {
 			die("Database query failed: " . mysqli_error($connection));
 		}
 	}
 	
 	function get_all_subjects($public = true) {
-		$connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+		$connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
 		global $connection;
 		$query = "SELECT * 
 				FROM subjects ";
@@ -48,7 +48,7 @@ require("connection.php");
 	}
 	
 	function get_pages_for_subject($subject_id, $public = true) {
-		$connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+		$connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
 		global $connection;
 		$query = "SELECT * 
 				FROM pages ";
@@ -63,7 +63,7 @@ require("connection.php");
 	}
 	
 	function get_subject_by_id($subject_id) {
-		$connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+		$connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
 		global $connection;
 		$query = "SELECT * ";
 		$query .= "FROM subjects ";
@@ -81,7 +81,7 @@ require("connection.php");
 	}
 
 	function get_page_by_id($page_id) {
-		$connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+		$connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
 		global $connection;
 		$query = "SELECT * ";
 		$query .= "FROM pages ";
@@ -99,7 +99,7 @@ require("connection.php");
 	}
 	
 	function get_default_page($subject_id) {
-		$connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+		$connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
 		// Get all visible pages
 		$page_set = get_pages_for_subject($subject_id, true);
 		if ($first_page = mysqli_fetch_assoc($page_set)) {
@@ -110,7 +110,7 @@ require("connection.php");
 	}
 	
 	function find_selected_page() {
-		$connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+		$connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
 		global $sel_subject;
 		global $sel_page;
 		if (isset($_GET['subj'])) {
@@ -126,7 +126,7 @@ require("connection.php");
 	}
 
 	function navigation($sel_subject, $sel_page, $public = false) {
-		$connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+		$connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
 		$output = "<ul class=\"subjects\">";
 		$subject_set = get_all_subjects($public);
 		while ($subject = mysqli_fetch_assoc($subject_set)) {
@@ -149,7 +149,7 @@ require("connection.php");
 	}
 
 	function public_navigation($sel_subject, $sel_page, $public = true) {
-		$connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+		$connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
 		$output = "<ul class=\"subjects\">";
 		$subject_set = get_all_subjects($public);
 		while ($subject = mysqli_fetch_assoc($subject_set)) {
@@ -175,7 +175,7 @@ require("connection.php");
 
   //generating password
 function generatePassword($length=10, $strength=2) {
-	$connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+	$connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
 	$vowels = 'aeuy';
 	$consonants = 'bdghjmnpqrstvz';
 	if ($strength & 1) {
@@ -210,7 +210,7 @@ function generatePassword($length=10, $strength=2) {
 
 function make_thumb($img_name,$filename,$new_w,$new_h)
  {
-	 $connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+	 $connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
  	//get image extension.
  	$ext=getExtension($img_name);
  	//creates the new image using the appropriate function from gd library
@@ -261,7 +261,7 @@ function make_thumb($img_name,$filename,$new_w,$new_h)
 
  //get extention of the uploaded image
  function getExtension($str) {
-	 $connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+	 $connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
          $i = strrpos($str,".");
          if (!$i) { return ""; }
          $l = strlen($str) - $i;
@@ -274,7 +274,7 @@ function make_thumb($img_name,$filename,$new_w,$new_h)
 
 /*function getmember($eid){
 			$q = "select * from member where EID='".$eid."' LIMIT 1";	
-			$connection = mysqli_connect('localhost','root','','emuem001_emuem');
+			$connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');
               $result = mysqli_query($connection,$q);
 			  $num_rows = mysqli_num_rows($result);
 			  #echo 'this is num of rows'.$num_rows;
@@ -285,14 +285,14 @@ function make_thumb($img_name,$filename,$new_w,$new_h)
  }*/
 
 function getmember($eid){
-			$connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+			$connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
              $result = mysqli_query($connection,"Select * From member WHERE EID='".$eid."' LIMIT 1");
 			 $row = mysqli_fetch_array($result,MYSQLI_ASSOC);
            return $row;
 }
 
   function getgname($gname){
-			 $connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+			 $connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
               $result = mysqli_query($connection,"Select * From emcourse WHERE gname='".$gname."' LIMIT 1");
               $row = mysqli_fetch_assoc($result);
               return $row;
@@ -300,7 +300,7 @@ function getmember($eid){
  
  
 function getmembercourse($gname,$eid){
-	$connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+	$connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
  $result = mysqli_query($connection,"SELECT course.year, course.semester,emcourse.cname,emcourse.gname, coursemember.grade,coursemember.certification FROM coursemember, course, emcourse WHERE
          coursemember.CID=course.CID AND emcourse.EMCID=course.EMCID AND coursemember.EID='".$eid."' AND emcourse.gname='".$gname."'");
          $row = mysqli_fetch_assoc($result);
@@ -308,28 +308,61 @@ function getmembercourse($gname,$eid){
  }
  
  function getbiography($eid){
-	 $connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+	 $connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
           $result = mysqli_query($connection,"Select * From biography WHERE EID='$eid' LIMIT 1");
           $bio = mysqli_fetch_assoc($result);
           return $bio;
  }
  
- function getimage($eid){
-	 $connection = mysqli_connect('localhost','root','','emuem001_emuem');	
-              $row= getmember($eid);
-              $imagelink= 'images/thumbs/thumb_'.htmlspecialchars($row['imageid']);
-              return $imagelink;
- }
+//  function getimage($eid){
+// 	 $connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
+//               $row= getmember($eid);
+//               $imagelink= 'images/thumbs/thumb_'.htmlspecialchars($row['imageid']);
+//               return $imagelink;
+//  }
+
+function getimage($eid){
+	$connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
+	$row = getmember($eid);
+	
+	// Debug output
+	echo "<!-- DEBUG getimage: EID = " . $eid . " -->";
+	echo "<!-- DEBUG getimage: imageid from DB = '" . (isset($row['imageid']) ? $row['imageid'] : 'NULL') . "' -->";
+	
+	if (empty($row['imageid'])) {
+			echo "<!-- DEBUG getimage: No imageid, using default -->";
+			return 'images/default-avatar.jpg'; // Make sure this file exists
+	}
+	
+	$clean_imageid = trim($row['imageid']);
+	$thumbnail_path = 'images/thumbs/thumb_' . htmlspecialchars($clean_imageid);
+	$original_path = 'images/' . htmlspecialchars($clean_imageid);
+	
+	echo "<!-- DEBUG getimage: Checking thumbnail: " . $thumbnail_path . " -->";
+	echo "<!-- DEBUG getimage: Checking original: " . $original_path . " -->";
+	
+	// Check if thumbnail exists first
+	if (file_exists($thumbnail_path)) {
+			echo "<!-- DEBUG getimage: Found thumbnail -->";
+			return $thumbnail_path;
+	} elseif (file_exists($original_path)) {
+			echo "<!-- DEBUG getimage: Found original, using that -->";
+			return $original_path;
+	} else {
+			echo "<!-- DEBUG getimage: No files found, using default -->";
+			return 'images/default-avatar.png';
+	}
+}
  
  function getfaculty(){
-	 $connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+	 $connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
               $result = mysqli_query($connection,"Select * From member WHERE faculty='1' ");
               $row = mysqli_fetch_assoc($result);
               return $result;
  }
  
  function  dropdownsemester($gname,$eid){
-	 $connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+	 $connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
  $ecrow = getmembercourse($gname,$eid);
  $ddsemester="";
  $ddsemester .= "<select name='semester_".$gname."' type='text' class='textfield' id='semester_".$gname."'>";
@@ -351,7 +384,7 @@ function getmembercourse($gname,$eid){
  }
 
  function grades($gname,$eid){
-	 $connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+	 $connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
      $ecrow = getmembercourse($gname,$eid);
      $grads = "";
      $grads .= "<select name='grade_".$gname."' value='' id='grade_".$gname."' ><option value=''></option>";
@@ -375,7 +408,7 @@ function getmembercourse($gname,$eid){
  }
 
 function getcname($gname,$eid){
-	$connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+	$connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
               $ecrow = getmembercourse($gname,$eid);
               $str= "";
               $str .= "<tr><td>";
@@ -392,11 +425,10 @@ function getcname($gname,$eid){
 
  }
 
-
-
-///add core courses in POS
+ ///add core courses in POS
 function addcore2($psemester,$pyear,$pgrade,$pcertification,$pgname){
-	$connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+	// echo "IN ADDCORE2";
+	$connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
           if(!empty($psemester) AND !empty($pyear)){
             # echo "Inside if".$pgname;
                   //checking for existing CID
@@ -439,8 +471,9 @@ function addcore2($psemester,$pyear,$pgrade,$pcertification,$pgname){
 
   mysqli_close($connection);
 }
+
 function reportpos($gname,$eid){
-	$connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+	$connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
          $ecrow = getmembercourse($gname,$eid);
               $str= "";
               $str .= "<tr><td>";
@@ -458,7 +491,7 @@ function reportpos($gname,$eid){
 }
 
 function dropyear(){
-	$connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+	$connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
      $year = date("Y");
      $cyear = date("Y");
      $cont=6;
@@ -478,7 +511,7 @@ function dropyear(){
 
 
 function dropsemester(){
-	$connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+	$connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
  $str="";
  $str.= "Semester<select name='coursesemester' type='text' class='textfield' id='coursesemester'><option value=''>-----Select one-----</option>
 <option value='Fall'>Fall</option><option value='Winter'>Winter</option><option value='Spring'>Spring</option><option value='Summer'>Summer</option></select>";
@@ -489,7 +522,7 @@ function dropsemester(){
 //************************************************************Team Collaboration**************************************88\\
 
  function getteam($tid){
-	 $connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+	 $connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
               $result = mysqli_query($connection,"Select * From team WHERE TID='".$tid."' LIMIT 1");
               $row = mysqli_fetch_assoc($result);
               return $row;
@@ -500,7 +533,7 @@ function dropsemester(){
  // returns single result  
 function mysql_one_data($query)  
 {  
-	$connection = mysqli_connect('localhost','root','','emuem001_emuem');	
+	$connection = mysqli_connect('localhost:3307','root','','emuem001_emuem');	
    $one=mysqli_query($connection,$query);  
    $r=mysqli_fetch_row($one);  
    return($r[0]);  

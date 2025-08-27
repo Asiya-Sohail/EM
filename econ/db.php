@@ -1,5 +1,5 @@
 <?php
-$host = 'localhost';
+$host = 'localhost:3307';
 $dbname = 'emuem001_limesurvey_15086';
 $username = 'root';
 $password = '';
